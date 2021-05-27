@@ -1,0 +1,799 @@
+﻿Log file open, 05/27/21 14:35:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BallRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.542915
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.085s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="LottieChar" -epicuserid=323b72e8b67847799dafc345eb1072de -epiclocale=pl
+LogInit: Base Directory: P:/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.05.27-12.35.28:621][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.27-12.35.28:621][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.27-12.35.28:628][  0]LogHAL: Display: Platform has ~ 16 GB [17023324160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.27-12.35.28:628][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.05.27-12.35.28:628][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.27-12.35.28:628][  0]LogInit: Computer: LAPTOP-G3O3VCMT
+[2021.05.27-12.35.28:628][  0]LogInit: User: Lotka
+[2021.05.27-12.35.28:628][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.27-12.35.28:628][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.27-12.35.28:629][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.27-12.35.28:629][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.27-12.35.28:629][  0]LogMemory: Process Physical Memory: 102.93 MB used, 102.93 MB peak
+[2021.05.27-12.35.28:629][  0]LogMemory: Process Virtual Memory: 86.08 MB used, 86.08 MB peak
+[2021.05.27-12.35.28:629][  0]LogMemory: Physical Memory: 6307.67 MB used,  9927.04 MB free, 16234.71 MB total
+[2021.05.27-12.35.28:629][  0]LogMemory: Virtual Memory: 4641.50 MB used,  9927.04 MB free, 134217728.00 MB total
+[2021.05.27-12.35.28:678][  0]LogInit: Using OS detected language (pl-PL).
+[2021.05.27-12.35.28:678][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.05.27-12.35.28:679][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.05.27-12.35.28:680][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.05.27-12.35.28:680][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.27-12.35.28:703][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.27-12.35.28:703][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.27-12.35.28:884][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.27-12.35.28:884][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.27-12.35.28:989][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.05.27-12.35.28:989][  0]LogD3D11RHI:       8031/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.27-12.35.29:003][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.05.27-12.35.29:003][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.27-12.35.29:004][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.27-12.35.29:004][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.27-12.35.29:004][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.27-12.35.29:011][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.27-12.35.29:011][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.27-12.35.29:011][  0]LogWindows: EnumDisplayDevices:
+[2021.05.27-12.35.29:011][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.05.27-12.35.29:011][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.27-12.35.29:011][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.27-12.35.29:012][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.05.27-12.35.29:012][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.27-12.35.29:012][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.27-12.35.29:012][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.27-12.35.29:012][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.27-12.35.29:012][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.05.27-12.35.29:012][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.05.27-12.35.29:012][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.05.27-12.35.29:012][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.05.27-12.35.29:089][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.27-12.35.29:104][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.27-12.35.29:106][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061081).
+[2021.05.27-12.35.29:107][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Intermediate/Shaders/WorkingDirectory/13420/).
+[2021.05.27-12.35.29:107][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lotka/AppData/Local/Temp/UnrealShaderWorkingDir/E93F30C04704B4DE3FE77BB1E19AAD27/'.
+[2021.05.27-12.35.29:316][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.05.27-12.35.29:326][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.05.27-12.35.29:336][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.05.27-12.35.29:347][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.05.27-12.35.29:358][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.05.27-12.35.29:368][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.05.27-12.35.29:378][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.05.27-12.35.29:389][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.05.27-12.35.29:393][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.27-12.35.29:457][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.05.27-12.35.29:509][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.05.27-12.35.29:509][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.05.27-12.35.29:527][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.05.27-12.35.29:527][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.05.27-12.35.29:536][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.05.27-12.35.29:547][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.05.27-12.35.29:557][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.05.27-12.35.29:567][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.05.27-12.35.29:573][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.05.27-12.35.29:573][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.27-12.35.29:603][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.05.27-12.35.29:603][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.27-12.35.29:603][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.27-12.35.30:202][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.27-12.35.30:249][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Lotka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.05.27-12.35.30:249][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lotka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.05.27-12.35.30:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projekty/BallRunner_W.Gawlik/BallRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.27-12.35.30:249][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.27-12.35.30:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projekty/BallRunner_W.Gawlik/BallRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.27-12.35.30:249][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.27-12.35.30:261][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.27-12.35.30:273][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lotka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.27-12.35.30:273][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.27-12.35.30:273][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.27-12.35.30:290][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.05.27-12.35.30:292][  0]LogSlate: Using FreeType 2.6.0
+[2021.05.27-12.35.30:292][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.27-12.35.30:358][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2021.05.27-12.35.30:610][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.27-12.35.30:707][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.05.27-12.35.30:709][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.05.27-12.35.30:709][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.27-12.35.30:709][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.27-12.35.30:709][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.05.27-12.35.30:726][  0]LogNetVersion: BallRunner 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 346235534)
+[2021.05.27-12.35.31:081][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.052374 seconds
+[2021.05.27-12.35.31:085][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.05.27-12.35.31:085][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2021.05.27-12.35.31:085][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.27-12.35.31:729][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.27-12.35.31:741][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.27-12.35.31:859][  0]SourceControl: Source control is disabled
+[2021.05.27-12.35.31:859][  0]SourceControl: Source control is disabled
+[2021.05.27-12.35.31:859][  0]SourceControl: Source control is disabled
+[2021.05.27-12.35.31:860][  0]SourceControl: Source control is disabled
+[2021.05.27-12.35.31:992][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.27-12.35.32:442][  0]LogOcInput: OculusInput pre-init called
+[2021.05.27-12.35.32:488][  0]LogEngine: Initializing Engine...
+[2021.05.27-12.35.32:488][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.27-12.35.32:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.05.27-12.35.32:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.05.27-12.35.32:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.05.27-12.35.32:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.05.27-12.35.32:648][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.27-12.35.32:654][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.27-12.35.32:675][  0]LogInit: XAudio2 using 'Głośniki (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.05.27-12.35.32:705][  0]LogInit: FAudioDevice initialized.
+[2021.05.27-12.35.32:705][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.27-12.35.32:751][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Lotka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.05.27-12.35.32:753][  0]LogInit: Texture streaming: Enabled
+[2021.05.27-12.35.32:762][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.27-12.35.32:769][  0]LogInit: Transaction tracking system initialized
+[2021.05.27-12.35.32:780][  0]BlueprintLog: New page: Editor Load
+[2021.05.27-12.35.32:817][  0]LocalizationService: Localization service is disabled
+[2021.05.27-12.35.32:996][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.05.27-12.35.32:996][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.27-12.35.32:996][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.05.27-12.35.32:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.05.27-12.35.32:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.05.27-12.35.32:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.05.27-12.35.32:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.05.27-12.35.33:062][  0]LogFileCache: Scanning file cache for directory 'P:/Unreal/Projekty/BallRunner_W.Gawlik/BallRunner/Content/' took 0.01s
+[2021.05.27-12.35.33:062][  0]SourceControl: Source control is disabled
+[2021.05.27-12.35.33:062][  0]Cmd: MAP LOAD FILE="../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.27-12.35.33:064][  0]LightingResults: New page: Lighting Build
+[2021.05.27-12.35.33:065][  0]MapCheck: New page: Map Check
+[2021.05.27-12.35.33:065][  0]LightingResults: New page: Lighting Build
+[2021.05.27-12.35.33:450][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.27-12.35.33:458][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.27-12.35.33:480][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.27-12.35.33:523][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43,404ms to complete.
+[2021.05.27-12.35.33:523][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.462
+[2021.05.27-12.35.33:650][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-12.35.33:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-12.35.33:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-12.35.33:669][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-12.35.33:678][  0]LogCollectionManager: Loaded 0 collections in 0.000749 seconds
+[2021.05.27-12.35.33:732][  0]LogFileCache: Scanning file cache for directory 'P:/Unreal/Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Collections/' took 0.01s
+[2021.05.27-12.35.33:732][  0]LogFileCache: Scanning file cache for directory 'P:/Unreal/Projekty/BallRunner_W.Gawlik/BallRunner/Content/Developers/Lotka/Collections/' took 0.01s
+[2021.05.27-12.35.33:732][  0]LogFileCache: Scanning file cache for directory 'P:/Unreal/Projekty/BallRunner_W.Gawlik/BallRunner/Content/Collections/' took 0.01s
+[2021.05.27-12.35.33:732][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.05.27-12.35.33:743][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2572 classes and 603 folders.
+[2021.05.27-12.35.33:752][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.27-12.35.33:860][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.27-12.35.33:875][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.05.27-12.35.34:809][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.27-12.35.34:838][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.27-12.35.34:840][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.27-12.35.34:850][  0]LogSlate: Took 0.001039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.27-12.35.34:948][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BallRunner
+[2021.05.27-12.35.34:949][  0]LogTemp: CWD: P:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.05.27-12.35.34:949][  0]LogTemp: Initial Dir: P:\Unreal\UE_4.20
+[2021.05.27-12.35.34:949][  0]LogTemp: Env CWD: P:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.05.27-12.35.34:949][  0]LogTemp: BranchPath = LAPTOP-G3O3VCMT/P/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = LAPTOP-G3O3VCMT/P/Unreal/UE_4.20/Engine/Binaries
+[2021.05.27-12.35.34:949][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Lotka\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.05.27-12.35.34:949][  0]LogRenderer: Reallocating scene render targets to support 968x392 Format 10 NumSamples 1 (Frame:1).
+[2021.05.27-12.35.35:089][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.27-12.35.35:089][  0]LogLoad: (Engine Initialization) Total time: 8.09 seconds
+[2021.05.27-12.35.35:089][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.27-12.35.35:132][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.27-12.35.35:159][  0]LogSlate: Took 0.001454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.27-12.35.35:210][  1]LogAssetRegistry: Asset discovery search completed in 4.8746 seconds
+[2021.05.27-12.35.35:211][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.05.27-12.35.35:211][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2021.05.27-12.50.34:839][766]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.50.40:374][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.00:699][190]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.03:402][246]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.13:735][410]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.14:797][418]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.15:856][426]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.28:312][613]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.32:722][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.42:044][819]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.46:354][915]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.51.58:468][103]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.01:641][153]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.05:341][210]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.05:844][211]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.12:813][336]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.15:000][357]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.16:061][365]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.20:408][441]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.27:936][536]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.31:651][595]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.35:390][657]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.39:623][725]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.52.50:779][977]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.53.10:033][748]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.53.28:587][937]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.53.32:361][  7]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.53.39:519][ 80]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.53.40:577][ 88]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.53.46:607][180]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.53.51:437][256]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.53.54:622][312]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.54.03:357][426]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.54.08:717][507]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.54.10:909][528]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.54.11:970][536]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.54.25:640][688]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.54.26:707][696]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.54.32:297][759]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.55.05:470][266]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.55.06:530][274]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.55.25:359][542]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.55.26:422][550]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.56.03:968][921]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.56.27:391][143]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.56.39:031][296]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.56.43:420][373]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.56.48:901][463]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.56.55:328][588]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.56.59:609][655]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.57.29:183][989]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.57.33:590][ 69]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.57.44:079][209]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.57.47:951][248]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.57.51:171][307]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.57.55:985][380]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.58.04:920][475]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.58.25:110][675]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.58.29:532][754]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.58.33:313][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.58.50:654][ 52]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.58.55:998][151]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.58.57:625][166]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.59.06:529][259]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.59.12:016][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.59.21:541][451]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-12.59.31:513][587]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.00.12:375][ 10]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.00.18:501][ 75]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.00.28:549][214]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.00.33:608][271]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.00.48:032][400]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.00.48:533][401]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.00.49:033][401]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.00.57:139][546]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.05:880][654]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.28:540][892]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.32:374][965]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.36:735][ 42]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.40:657][ 85]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.49:986][240]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.51:044][248]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.56:436][331]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.01.57:501][339]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.02.03:033][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.02.06:310][462]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.02.13:983][576]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.02.17:707][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.02.25:172][775]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.02.57:002][106]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.08:155][226]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.09:217][234]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.12:482][263]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.16:270][333]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.28:482][530]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.31:267][559]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.33:390][575]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.35:590][597]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.39:489][639]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.42:185][696]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.45:914][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.48:688][790]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.03.55:122][918]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.03:327][ 29]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.13:280][166]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.18:828][258]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.19:889][266]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.26:985][391]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.34:607][493]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.41:217][592]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.45:482][660]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.04.57:097][846]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.05.30:230][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.05.35:793][276]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.05.46:594][396]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.05.47:096][397]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.05.47:596][397]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.05.48:096][397]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.05.56:174][540]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.05.59:998][612]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.06.06:746][690]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.06.12:155][773]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.06.18:232][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.06.21:433][929]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.06.25:186][998]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.06.31:186][ 91]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.06.48:246][842]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.04:814][ 42]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.09:125][ 79]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.14:671][172]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.19:643][256]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.28:548][377]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.34:969][465]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.39:201][526]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.40:266][534]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.46:328][627]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.50:082][691]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.07.54:820][784]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.00:875][876]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.04:157][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.10:188][ 30]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.12:372][ 51]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.20:030][153]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.21:093][161]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.24:263][216]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.31:421][320]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.33:607][341]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.40:156][439]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.42:361][461]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.45:133][490]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.50:674][581]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.08.51:732][589]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.01:002][710]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.03:215][732]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.05:418][754]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.11:531][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.21:575][991]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.33:160][145]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.34:799][160]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.41:953][230]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.09.46:860][306]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.00:495][457]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.07:062][554]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.14:578][681]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.19:048][729]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.26:013][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.29:794][930]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.35:142][  7]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.42:235][107]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.10.45:420][168]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.11.03:484][444]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.11.13:250][561]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.11.17:091][629]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.11.25:639][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.11.30:561][842]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.11.55:874][146]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.11.59:142][211]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.12.00:778][226]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.12.04:000][287]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.12.13:897][382]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.12.26:701][539]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.12.30:997][607]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.12.37:419][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.12.47:998][839]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.04:371][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.04:873][ 51]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.05:372][ 51]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.16:578][210]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.19:922][278]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.23:111][361]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.31:923][480]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.39:188][591]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.55:714][828]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.13.59:373][882]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.14.06:534][987]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.14.09:314][ 16]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.14.10:952][ 31]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.14.14:644][ 92]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.14.21:763][195]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.14.25:558][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.14.37:778][428]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.14.42:075][501]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.15.08:277][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.15.13:763][943]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.15.19:188][ 29]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.15.26:793][168]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.15.55:794][ 92]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.07:018][218]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.09:792][247]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.20:185][385]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.25:047][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.29:998][542]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.34:384][584]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.44:391][727]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.45:451][735]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.16.59:357][914]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.17.04:178][986]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.17.08:984][ 61]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.17.14:378][143]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.17.28:764][326]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.17.39:042][514]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.17.46:811][631]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.17.51:779][715]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.17.57:544][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.18.03:592][917]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.18.12:372][ 41]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.18.18:980][144]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.18.25:453][272]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.18.27:095][287]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.18.37:270][405]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.18.44:187][490]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.18.59:512][661]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.03:812][734]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.08:702][815]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.12:492][883]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.15:188][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.29:937][118]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.32:140][141]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.35:357][202]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.38:051][259]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.44:188][325]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.47:408][384]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.54:964][485]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.57:173][507]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.19.59:890][530]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.20.05:907][624]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.20.11:529][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.20.32:857][948]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.20.33:919][956]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.20.37:764][ 29]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.20.59:845][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.01:983][335]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.07:985][428]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.12:220][493]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.14:360][509]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.21:360][657]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.23:999][708]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.28:484][758]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.34:497][849]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.38:776][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.42:538][985]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.21.50:816][107]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.22.06:888][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.22.10:611][376]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.22.33:499][660]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.22.43:357][787]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.22.59:160][ 43]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.23.09:746][194]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.23.21:732][393]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.23.25:466][455]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.23.29:233][521]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.23.35:826][622]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.23.41:417][684]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.23.45:673][754]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.23.50:594][834]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.00:472][969]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.03:249][999]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.07:013][ 65]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.12:538][156]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.14:170][171]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.17:953][233]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.21:749][302]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.28:267][391]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.31:043][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.41:968][616]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.43:030][624]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.45:233][646]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.49:643][724]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.54:936][833]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.24.55:998][841]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.25.01:438][926]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.25.08:669][  2]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.25.14:706][ 92]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.25.32:327][301]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.25.43:574][428]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.25.55:108][614]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.01:288][684]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.02:923][699]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.10:061][804]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.13:891][874]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.14:952][882]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.21:595][986]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.39:890][736]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.46:966][832]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.55:606][979]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.26.59:375][ 43]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.09:967][192]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.14:315][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.17:077][298]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.25:138][433]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.30:470][511]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.38:809][597]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.42:031][658]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.45:313][722]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.47:516][744]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.50:756][809]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.27.59:845][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.07:172][ 39]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.13:232][134]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.31:076][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.32:139][403]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.35:965][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.40:393][553]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.47:608][629]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.50:274][649]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.28.54:525][715]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.29.02:658][829]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.29.04:786][844]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.29.08:630][881]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.29.26:595][112]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.29.43:268][283]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.29.48:640][365]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.29.57:747][513]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.30.01:490][579]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.30.10:374][706]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.30.30:374][987]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.30.55:875][253]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.01:453][312]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.08:108][415]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.18:704][562]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.19:766][570]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.20:829][578]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.24:579][640]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.32:906][760]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.33:969][768]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.31.55:045][996]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.04:409][123]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.08:293][165]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.09:920][180]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.12:109][201]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.14:251][218]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.42:217][303]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.48:814][405]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.49:875][413]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.32.59:541][589]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.33.09:356][752]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.33.14:276][833]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.33.21:543][947]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.33.25:296][ 15]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.05.27-13.33.42:605][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.27-13.33.45:850][102]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.27-13.33.46:519][102]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.27-13.33.46:564][102]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Levels/MainLevel.MainLevel
+[2021.05.27-13.33.46:588][102]Cmd: MAP LOAD FILE="../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.27-13.33.46:588][102]LightingResults: New page: Lighting Build
+[2021.05.27-13.33.46:588][102]LoadErrors: New page: Loading map: MainLevel.umap
+[2021.05.27-13.33.46:589][102]MapCheck: New page: Map Check
+[2021.05.27-13.33.46:589][102]LightingResults: New page: Lighting Build
+[2021.05.27-13.33.46:701][102]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.27-13.33.46:739][102]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.27-13.33.46:799][102]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59,702ms to complete.
+[2021.05.27-13.33.46:801][102]LogFileHelpers: Loading map 'MainLevel' took 0.213
+[2021.05.27-13.37.30:819][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.27-13.37.56:049][741]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.27-13.38.33:730][600]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Volumes/BP_VolumeWinCondition.BP_VolumeWinCondition
+[2021.05.27-13.38.34:148][600]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2021.05.27-13.38.34:834][601]LogRenderer: Reallocating scene render targets to support 968x552 Format 10 NumSamples 1 (Frame:1).
+[2021.05.27-13.38.38:884][727]LogSlate: Took 0.001902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.27-13.40.03:817][494]LogMetaData: Removing '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.BP_DamageVolume_C' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_Reset.PackageMetaData'
+[2021.05.27-13.40.03:817][494]LogMetaData: Removing '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.BP_DamageVolume:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_Reset.PackageMetaData'
+[2021.05.27-13.40.03:817][494]LogMetaData: Removing '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.SKEL_BP_DamageVolume_C' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_Reset.PackageMetaData'
+[2021.05.27-13.40.03:851][494]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_DamageVolume2455D22B42478A2EB5A7159AE4A73035.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Triggers/BP_DamageVolume.uasset'
+[2021.05.27-13.40.03:907][494]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_Reset252C6C6A4F85E1B21D5C7B9DA2B4B981.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Triggers/BP_Reset.uasset'
+[2021.05.27-13.40.08:428][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.BP_DamageVolume_C' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:428][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:428][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.BP_DamageVolume:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:428][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:428][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C:Fade duration' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:428][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C:DefaultSceneRoot' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:428][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C:Box' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:428][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:429][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.BP_DamageVolume_C:Fade duration' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:429][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.BP_DamageVolume_C:DefaultSceneRoot' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:429][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.BP_DamageVolume_C:Box' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:429][763]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_DamageVolume.BP_DamageVolume_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Blueprints/Triggers/BP_DamageVolume.PackageMetaData'
+[2021.05.27-13.40.08:460][763]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_DamageVolumeB4EA97BE4313C86CF17348A72AB311D0.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Volumes/BP_DamageVolume.uasset'
+[2021.05.27-13.40.08:626][763]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_Reset8B7C7C504865635B988AF899E3C0F3DB.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Triggers/BP_Reset.uasset'
+[2021.05.27-13.40.27:432][576]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinCondition.PackageMetaData'
+[2021.05.27-13.40.27:432][576]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.SKEL_BP_VolumeWinVolume_C' ref from Metadata '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinCondition.PackageMetaData'
+[2021.05.27-13.40.27:432][576]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume_C' ref from Metadata '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinCondition.PackageMetaData'
+[2021.05.27-13.40.27:432][576]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinCondition.PackageMetaData'
+[2021.05.27-13.40.27:432][576]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinCondition.PackageMetaData'
+[2021.05.27-13.40.27:432][576]LogMetaData: Removing '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinCondition.PackageMetaData'
+[2021.05.27-13.40.27:463][576]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_VolumeWinVolume443D0DCF40B6CFC09AF1B8BBB911C40F.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.uasset'
+[2021.05.27-13.40.31:176][767]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevelBE41CA46400E1A304B0EF5ABEA8BB7C9.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.27-13.40.31:363][767]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltData24836E8B49CBF43AF5FFE6AB0013BBA9.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.27-13.41.27:565][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.27-13.41.28:857][853]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.27-13.41.31:468][982]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.27-13.41.31:476][982]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.27-13.41.35:334][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.27-13.41.40:298][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.27-13.41.40:491][518]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume
+[2021.05.27-13.41.40:753][518]LogSlate: Took 0.001411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.27-13.41.49:408][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.27-13.41.49:507][ 39]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.27-13.41.57:178][489]LogEditorViewport: Clicking on Actor (LMB): BP_VolumeWinVolume_C (BP_VolumeWinVolume)
+[2021.05.27-13.41.57:576][512]LogEditorViewport: Clicking on Actor (LMB): BP_VolumeWinVolume_C (BP_VolumeWinVolume)
+[2021.05.27-13.41.57:993][537]LogEditorViewport: Clicking on Actor (LMB): BP_VolumeWinVolume_C (BP_VolumeWinVolume)
+[2021.05.27-13.41.58:329][557]LogEditorViewport: Clicking Background
+[2021.05.27-13.41.58:779][584]LogEditorViewport: Clicking Background
+[2021.05.27-13.41.59:096][603]LogEditorViewport: Clicking on Actor (LMB): BP_VolumeWinVolume_C (BP_VolumeWinVolume)
+[2021.05.27-13.42.22:432][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.27-13.42.36:711][402]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.27-13.42.38:358][463]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel73D6E7FF470B2C170E8EF397F1D462FC.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.27-13.42.38:472][463]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltDataBE7368D1491C131F0E1F4E98FF30BCCB.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.27-13.43.04:428][954]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.27-13.43.30:198][365]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.27-13.43.51:339][633]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.27-13.43.52:363][687]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.27-13.45.14:346][489]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.27-13.45.55:805][914]Cmd: TRANSACTION UNDO
+[2021.05.27-13.45.55:805][914]LogEditorTransaction: Undo Move Node
+[2021.05.27-13.46.02:635][277]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-13.46.15:510][ 41]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/ML_Actors5B9B92A640222AE69CD084BA3EEFE145.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Librares/ML_Actors.uasset'
+[2021.05.27-13.46.21:325][380]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Librares/ML_Actors.ML_Actors
+[2021.05.27-13.46.56:962][396]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Pawns/BP_PlayerPawn.BP_PlayerPawn
+[2021.05.27-13.47.16:772][402]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Collectibles/BP_Monetka.BP_Monetka
+[2021.05.27-13.48.03:500][734]LogSlate: Took 0.002151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.27-13.50.25:449][358]LogSlate: Window 'ML_Actors*' being destroyed
+[2021.05.27-13.50.25:455][358]LogSlate: Window 'ML_Actors*' being destroyed
+[2021.05.27-13.50.31:416][619]LogSlate: Window 'BP_Monetka' being destroyed
+[2021.05.27-13.50.31:423][619]LogSlate: Window 'BP_Monetka' being destroyed
+[2021.05.27-13.50.35:309][848]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume
+[2021.05.27-13.50.41:460][184]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.27-13.50.41:466][184]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.27-13.50.45:752][437]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Librares/ML_Actors.ML_Actors
+[2021.05.27-13.50.45:973][437]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2021.05.27-13.51.38:364][827]LogSlate: Window 'CompilerResults' being destroyed
+[2021.05.27-13.51.38:371][827]LogSlate: Window 'CompilerResults' being destroyed
+[2021.05.27-13.51.40:427][945]LogSlate: Window 'ML_Actors*' being destroyed
+[2021.05.27-13.51.40:433][945]LogSlate: Window 'ML_Actors*' being destroyed
+[2021.05.27-13.51.42:349][ 39]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevelBCF9A6A441BE43B29235119471577804.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.27-13.51.42:463][ 39]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltData446243D74E95CD3D3A3C2BA451FD9EFC.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
