@@ -1,0 +1,1822 @@
+﻿Log file open, 05/29/21 14:50:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BallRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.560686
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="LottieChar" -epicuserid=323b72e8b67847799dafc345eb1072de -epiclocale=pl
+LogInit: Base Directory: P:/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.05.29-12.50.31:307][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.29-12.50.31:307][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.29-12.50.31:313][  0]LogHAL: Display: Platform has ~ 16 GB [17023324160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.29-12.50.31:313][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.05.29-12.50.31:313][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.29-12.50.31:313][  0]LogInit: Computer: LAPTOP-G3O3VCMT
+[2021.05.29-12.50.31:313][  0]LogInit: User: Lotka
+[2021.05.29-12.50.31:313][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.29-12.50.31:313][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.29-12.50.31:314][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.29-12.50.31:314][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.29-12.50.31:314][  0]LogMemory: Process Physical Memory: 103.10 MB used, 103.11 MB peak
+[2021.05.29-12.50.31:314][  0]LogMemory: Process Virtual Memory: 86.14 MB used, 86.14 MB peak
+[2021.05.29-12.50.31:314][  0]LogMemory: Physical Memory: 8228.70 MB used,  8006.01 MB free, 16234.71 MB total
+[2021.05.29-12.50.31:314][  0]LogMemory: Virtual Memory: 4641.48 MB used,  8006.01 MB free, 134217728.00 MB total
+[2021.05.29-12.50.31:376][  0]LogInit: Using OS detected language (pl-PL).
+[2021.05.29-12.50.31:376][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.05.29-12.50.31:376][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.05.29-12.50.31:378][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.05.29-12.50.31:378][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.29-12.50.31:405][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.29-12.50.31:405][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.29-12.50.31:600][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.29-12.50.31:600][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.29-12.50.31:691][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.05.29-12.50.31:691][  0]LogD3D11RHI:       8031/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.29-12.50.31:704][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.05.29-12.50.31:704][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.29-12.50.31:706][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.29-12.50.31:706][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.29-12.50.31:706][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.29-12.50.31:712][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.29-12.50.31:712][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.29-12.50.31:712][  0]LogWindows: EnumDisplayDevices:
+[2021.05.29-12.50.31:712][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.05.29-12.50.31:712][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.29-12.50.31:712][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.29-12.50.31:713][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.05.29-12.50.31:713][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.29-12.50.31:713][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.29-12.50.31:713][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.29-12.50.31:713][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.29-12.50.31:713][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.05.29-12.50.31:714][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.05.29-12.50.31:714][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.05.29-12.50.31:714][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.05.29-12.50.31:784][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.29-12.50.31:797][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.29-12.50.31:800][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061081).
+[2021.05.29-12.50.31:801][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Intermediate/Shaders/WorkingDirectory/17212/).
+[2021.05.29-12.50.31:801][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lotka/AppData/Local/Temp/UnrealShaderWorkingDir/B5502C4A4BADFAA49985E9A1BAA8A536/'.
+[2021.05.29-12.50.32:023][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.05.29-12.50.32:033][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.05.29-12.50.32:044][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.05.29-12.50.32:054][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.05.29-12.50.32:064][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.05.29-12.50.32:076][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.05.29-12.50.32:086][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.05.29-12.50.32:096][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.05.29-12.50.32:102][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.29-12.50.32:170][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.05.29-12.50.32:224][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.05.29-12.50.32:224][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.05.29-12.50.32:242][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.05.29-12.50.32:243][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.05.29-12.50.32:252][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.05.29-12.50.32:262][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.05.29-12.50.32:272][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.05.29-12.50.32:282][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.05.29-12.50.32:289][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.05.29-12.50.32:289][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.29-12.50.32:322][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.05.29-12.50.32:322][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.29-12.50.32:322][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.29-12.50.32:971][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.29-12.50.33:016][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Lotka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.05.29-12.50.33:016][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lotka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.05.29-12.50.33:016][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projekty/BallRunner_W.Gawlik/BallRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.29-12.50.33:016][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.29-12.50.33:016][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projekty/BallRunner_W.Gawlik/BallRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.29-12.50.33:016][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.29-12.50.33:028][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.29-12.50.33:040][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lotka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.29-12.50.33:040][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.29-12.50.33:040][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.29-12.50.33:055][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.05.29-12.50.33:056][  0]LogSlate: Using FreeType 2.6.0
+[2021.05.29-12.50.33:056][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.29-12.50.33:122][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2021.05.29-12.50.33:374][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.29-12.50.33:475][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.05.29-12.50.33:477][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.05.29-12.50.33:477][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.29-12.50.33:477][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.29-12.50.33:477][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.05.29-12.50.33:494][  0]LogNetVersion: BallRunner 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 346235534)
+[2021.05.29-12.50.33:872][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.052953 seconds
+[2021.05.29-12.50.33:876][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.05.29-12.50.33:876][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2021.05.29-12.50.33:876][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.29-12.50.34:568][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.29-12.50.34:580][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.29-12.50.34:700][  0]SourceControl: Source control is disabled
+[2021.05.29-12.50.34:701][  0]SourceControl: Source control is disabled
+[2021.05.29-12.50.34:701][  0]SourceControl: Source control is disabled
+[2021.05.29-12.50.34:702][  0]SourceControl: Source control is disabled
+[2021.05.29-12.50.34:842][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.29-12.50.35:370][  0]LogOcInput: OculusInput pre-init called
+[2021.05.29-12.50.35:418][  0]LogEngine: Initializing Engine...
+[2021.05.29-12.50.35:419][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.29-12.50.35:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.05.29-12.50.35:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.05.29-12.50.35:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.05.29-12.50.35:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.05.29-12.50.35:584][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.29-12.50.35:591][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.29-12.50.35:619][  0]LogInit: XAudio2 using 'Głośniki (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.05.29-12.50.35:641][  0]LogInit: FAudioDevice initialized.
+[2021.05.29-12.50.35:641][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.29-12.50.35:691][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Lotka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.05.29-12.50.35:696][  0]LogInit: Texture streaming: Enabled
+[2021.05.29-12.50.35:709][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.29-12.50.35:716][  0]LogInit: Transaction tracking system initialized
+[2021.05.29-12.50.35:727][  0]BlueprintLog: New page: Editor Load
+[2021.05.29-12.50.35:769][  0]LocalizationService: Localization service is disabled
+[2021.05.29-12.50.35:965][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.05.29-12.50.35:965][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.29-12.50.35:965][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.05.29-12.50.35:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.05.29-12.50.35:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.05.29-12.50.35:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.05.29-12.50.35:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.05.29-12.50.36:041][  0]LogFileCache: Scanning file cache for directory 'P:/Unreal/Projekty/BallRunner_W.Gawlik/BallRunner/Content/' took 0.01s
+[2021.05.29-12.50.36:042][  0]SourceControl: Source control is disabled
+[2021.05.29-12.50.36:042][  0]Cmd: MAP LOAD FILE="../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.29-12.50.36:042][  0]LightingResults: New page: Lighting Build
+[2021.05.29-12.50.36:043][  0]MapCheck: New page: Map Check
+[2021.05.29-12.50.36:043][  0]LightingResults: New page: Lighting Build
+[2021.05.29-12.50.36:311][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.29-12.50.36:317][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.29-12.50.36:340][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.29-12.50.36:386][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45,916ms to complete.
+[2021.05.29-12.50.36:386][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.345
+[2021.05.29-12.50.36:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-12.50.36:493][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-12.50.36:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-12.50.36:507][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-12.50.36:510][  0]LogCollectionManager: Loaded 0 collections in 0.000632 seconds
+[2021.05.29-12.50.36:549][  0]LogFileCache: Scanning file cache for directory 'P:/Unreal/Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Collections/' took 0.01s
+[2021.05.29-12.50.36:549][  0]LogFileCache: Scanning file cache for directory 'P:/Unreal/Projekty/BallRunner_W.Gawlik/BallRunner/Content/Developers/Lotka/Collections/' took 0.01s
+[2021.05.29-12.50.36:549][  0]LogFileCache: Scanning file cache for directory 'P:/Unreal/Projekty/BallRunner_W.Gawlik/BallRunner/Content/Collections/' took 0.01s
+[2021.05.29-12.50.36:549][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.05.29-12.50.36:557][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2572 classes and 603 folders.
+[2021.05.29-12.50.36:560][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.29-12.50.36:590][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.29-12.50.36:593][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.05.29-12.50.37:410][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.29-12.50.37:472][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.05.29-12.50.37:473][  0]LogLoad: (Engine Initialization) Total time: 7.77 seconds
+[2021.05.29-12.50.37:473][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.29-12.50.37:534][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BallRunner
+[2021.05.29-12.50.37:534][  0]LogTemp: CWD: P:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.05.29-12.50.37:534][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.29-12.50.37:537][  0]LogTemp: Initial Dir: P:\Unreal\UE_4.20
+[2021.05.29-12.50.37:537][  0]LogTemp: Env CWD: P:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.05.29-12.50.37:537][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.29-12.50.37:540][  0]LogTemp: BranchPath = LAPTOP-G3O3VCMT/P/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = LAPTOP-G3O3VCMT/P/Unreal/UE_4.20/Engine/Binaries
+[2021.05.29-12.50.37:540][  0]LogSlate: Took 0.000540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.29-12.50.37:546][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
+[2021.05.29-12.50.37:546][  0]LogSlate: Took 0.000647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.29-12.50.37:596][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Lotka\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.05.29-12.50.37:688][  1]LogRenderer: Reallocating scene render targets to support 780x340 Format 10 NumSamples 1 (Frame:1).
+[2021.05.29-12.50.37:706][  1]LogAssetRegistry: Asset discovery search completed in 4.6071 seconds
+[2021.05.29-12.50.37:708][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.05.29-12.50.37:709][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000241 seconds (updated 0 objects)
+[2021.05.29-12.50.41:669][238]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.29-12.50.56:470][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-12.50.58:657][256]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.29-12.50.59:087][256]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.29-12.50.59:139][256]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Levels/MainLevel.MainLevel
+[2021.05.29-12.50.59:162][256]Cmd: MAP LOAD FILE="../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.29-12.50.59:162][256]LightingResults: New page: Lighting Build
+[2021.05.29-12.50.59:163][256]LoadErrors: New page: Loading map: MainLevel.umap
+[2021.05.29-12.50.59:163][256]MapCheck: New page: Map Check
+[2021.05.29-12.50.59:163][256]LightingResults: New page: Lighting Build
+[2021.05.29-12.50.59:288][256]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.29-12.50.59:328][256]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.29-12.50.59:388][256]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60,104ms to complete.
+[2021.05.29-12.50.59:390][256]LogFileHelpers: Loading map 'MainLevel' took 0.228
+[2021.05.29-12.51.48:638][789]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume
+[2021.05.29-12.51.49:055][789]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2021.05.29-12.51.49:668][789]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.29-12.51.49:717][790]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.29-12.53.39:952][ 39]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.29-12.54.21:570][526]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-12.55.56:940][410]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-12.55.59:564][511]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel33B09A3E4A7E763324AC31B3D1AE650E.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-12.55.59:729][511]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltData81656A4A41143EC8C4D3C4A7FEDBCAC3.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-12.57.03:923][ 29]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-12.58.55:354][712]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-12.59.39:336][341]BlueprintLog: New page: Collapse to Function
+[2021.05.29-13.05.04:711][532]BlueprintLog: New page: Collapse to Function
+[2021.05.29-13.05.59:767][912]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_Auto1A337196C46B8E64A0B25A581DD6567D8.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Autosaves/Game/StarterContent/Maps/Levels/MainLevel_Auto1.umap'
+[2021.05.29-13.05.59:769][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Levels/MainLevel' took 0.318
+[2021.05.29-13.05.59:769][912]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.318
+[2021.05.29-13.05.59:771][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume] ([1] browsable assets)...
+[2021.05.29-13.05.59:771][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume]
+[2021.05.29-13.05.59:791][912]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_VolumeWinVolume_Auto1E0F7721347A0142E00B11986839724A8.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Autosaves/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume_Auto1.uasset'
+[2021.05.29-13.05.59:791][912]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.05.29-13.14.12:927][517]LogRenderer: Reallocating scene render targets to support 832x392 Format 10 NumSamples 1 (Frame:1).
+[2021.05.29-13.15.50:814][ 88]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-13.17.06:777][623]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-13.18.09:638][107]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_Auto20E27CD714F18C40DF16A50AB62CA258F.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Autosaves/Game/StarterContent/Maps/Levels/MainLevel_Auto2.umap'
+[2021.05.29-13.18.09:641][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Levels/MainLevel' took 0.317
+[2021.05.29-13.18.09:641][107]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.317
+[2021.05.29-13.18.09:642][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume] ([1] browsable assets)...
+[2021.05.29-13.18.09:642][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume]
+[2021.05.29-13.18.09:667][107]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_VolumeWinVolume_Auto27F47FA344F1500C59E038B92537161BB.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Autosaves/Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume_Auto2.uasset'
+[2021.05.29-13.18.09:667][107]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.05.29-13.18.41:622][ 17]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-13.18.56:460][898]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-13.23.09:103][402]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-13.23.10:386][461]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.29-13.23.10:403][461]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.29-13.23.25:006][277]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume
+[2021.05.29-13.23.38:398][ 28]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-13.25.35:563][749]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.29-13.25.35:571][749]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.29-13.25.49:225][440]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel6529CA4B4F50493B55ED96A986EB052A.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-13.25.49:351][440]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltDataBBA80A144700EB4850AED286442743B1.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-13.26.18:268][687]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel6B1778C0444707BC3077EBB5B0BBC6EC.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-13.26.18:392][687]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltData4640B8934A51DB5DE1C94D9A56F68E10.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-13.26.23:988][997]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume
+[2021.05.29-13.27.25:187][580]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-13.27.32:846][787]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-13.27.35:050][910]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.29-13.27.35:057][910]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.29-13.27.35:862][953]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.29-13.27.35:877][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2021.05.29-13.27.35:878][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.29-13.27.35:891][953]PIE: New page: PIE session: MainLevel (29 maj 2021, 17:27:35)
+[2021.05.29-13.27.35:891][953]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/Levels/UEDPIE_0_MainLevel
+[2021.05.29-13.27.35:912][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020418s)
+[2021.05.29-13.27.35:912][953]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.29-13.27.35:913][953]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2021.05.29-13.27.35:913][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Levels/MainLevel.MainLevel to /Game/StarterContent/Maps/Levels/UEDPIE_0_MainLevel.MainLevel (0.021844s)
+[2021.05.29-13.27.35:954][953]LogInit: XAudio2 using 'Głośniki (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.05.29-13.27.35:967][953]LogInit: FAudioDevice initialized.
+[2021.05.29-13.27.36:009][953]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.29-13.27.36:016][953]LogWorld: Bringing World /Game/StarterContent/Maps/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.05.29-15.27.36
+[2021.05.29-13.27.36:017][953]LogWorld: Bringing up level for play took: 0.006106
+[2021.05.29-13.27.36:040][953]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
+[2021.05.29-13.27.36:041][953]PIE: Play in editor start time for /Game/StarterContent/Maps/Levels/UEDPIE_0_MainLevel 1,1
+[2021.05.29-13.27.36:042][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2021.05.29-13.28.00:537][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2021.05.29-13.28.00:538][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-13.28.00:587][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.29-13.28.00:588][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2021.05.29-13.28.00:619][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-13.28.00:659][422]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.05.29-13.28.01:231][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-13.28.01:865][461]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel2A7AD01042CB75F3A9EC48A767793847.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-13.28.02:044][461]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltData487EEE554C8716A7282DB9B942F76C47.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-13.33.10:474][986]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.29-13.33.14:582][194]LogAIModule: Creating AISystem for world Level02
+[2021.05.29-13.33.16:500][274]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevelAE76955D4FD9482FA721419AE20A1BCF.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-13.33.16:660][274]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltDataA9A28B0E4A9D651425D74FAC0825711D.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-13.35.50:530][570]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Levels/Level02.Level02
+[2021.05.29-13.35.52:444][570]LogSlate: Window 'Save Content' being destroyed
+[2021.05.29-13.35.52:499][570]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_VolumeWinVolume4CC958734394A938424190A8831D28C0.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.uasset'
+[2021.05.29-13.35.53:195][570]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02763B0D3447511771C0594CB8AC2F9AFC.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-13.35.53:251][570]LogFileHelpers: Saving map 'Level02' took 0.749
+[2021.05.29-13.35.53:376][570]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_BuiltData46FC4DE94EDDAB6D45F7458488A9D547.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02_BuiltData.uasset'
+[2021.05.29-13.35.53:381][570]Cmd: MAP LOAD FILE="../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.29-13.35.53:382][570]LightingResults: New page: Lighting Build
+[2021.05.29-13.35.53:383][570]LoadErrors: New page: Loading map: Level02.umap
+[2021.05.29-13.35.53:388][570]MapCheck: New page: Map Check
+[2021.05.29-13.35.53:389][570]LightingResults: New page: Lighting Build
+[2021.05.29-13.35.53:620][570]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.29-13.35.53:683][570]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.29-13.35.53:791][570]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107,735ms to complete.
+[2021.05.29-13.35.53:792][570]LogFileHelpers: Loading map 'Level02' took 0.413
+[2021.05.29-13.36.00:567][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.05.29-13.36.01:417][ 19]Cmd: DELETE
+[2021.05.29-13.36.01:417][ 19]Cmd: ACTOR DELETE
+[2021.05.29-13.36.01:440][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-13.36.01:471][ 19]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.05.29-13.36.06:084][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brama2)
+[2021.05.29-13.36.07:693][386]Cmd: DELETE
+[2021.05.29-13.36.07:693][386]Cmd: ACTOR DELETE
+[2021.05.29-13.36.07:704][386]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-13.36.07:736][386]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2021.05.29-13.36.08:156][411]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.29-13.36.08:785][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_12)
+[2021.05.29-13.36.09:155][460]Cmd: DELETE
+[2021.05.29-13.36.09:155][460]Cmd: ACTOR DELETE
+[2021.05.29-13.36.09:167][460]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-13.36.09:192][460]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.29-13.36.13:247][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_11)
+[2021.05.29-13.36.14:117][743]Cmd: DELETE
+[2021.05.29-13.36.14:117][743]Cmd: ACTOR DELETE
+[2021.05.29-13.36.14:129][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-13.36.14:154][743]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.05.29-13.36.14:924][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_13)
+[2021.05.29-13.36.15:179][800]Cmd: DELETE
+[2021.05.29-13.36.15:179][800]Cmd: ACTOR DELETE
+[2021.05.29-13.36.15:188][800]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-13.36.15:215][800]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.29-13.36.15:782][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_010)
+[2021.05.29-13.36.16:184][855]Cmd: DELETE
+[2021.05.29-13.36.16:184][855]Cmd: ACTOR DELETE
+[2021.05.29-13.36.16:194][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-13.36.16:220][855]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.29-13.36.22:605][232]Cmd: TRANSACTION UNDO
+[2021.05.29-13.36.22:605][232]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2021.05.29-13.36.24:495][336]Cmd: TRANSACTION UNDO
+[2021.05.29-13.36.24:496][336]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2021.05.29-13.36.36:505][ 29]LogEditorViewport: Clicking on Actor (LMB): ActorWithDemage_C (ActorWithDemage)
+[2021.05.29-13.36.37:716][ 98]Cmd: DELETE
+[2021.05.29-13.36.37:716][ 98]Cmd: ACTOR DELETE
+[2021.05.29-13.36.37:726][ 98]LogEditorActor: Deleted Actor: ActorWithDemage_C
+[2021.05.29-13.36.37:753][ 98]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.29-13.36.38:244][127]LogEditorViewport: Clicking on Actor (LMB): ActorWithDemage_C (ActorWithDemage2)
+[2021.05.29-13.36.38:435][136]Cmd: DELETE
+[2021.05.29-13.36.38:435][136]Cmd: ACTOR DELETE
+[2021.05.29-13.36.38:445][136]LogEditorActor: Deleted Actor: ActorWithDemage_C
+[2021.05.29-13.36.38:478][136]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2021.05.29-13.36.39:260][183]LogEditorViewport: Clicking on Actor (LMB): ActorWithDemage_C (ActorWithDemage3)
+[2021.05.29-13.38.27:409][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-13.38.32:355][871]Cmd: TRANSACTION UNDO
+[2021.05.29-13.38.32:355][871]LogEditorTransaction: Undo Move Actors
+[2021.05.29-13.38.32:375][871]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2021.05.29-13.38.53:508][191]LogEditorViewport: Clicking on Actor (LMB): BP_Canon_C (BP_Canon_2)
+[2021.05.29-13.39.07:761][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_33)
+[2021.05.29-13.39.45:475][200]LogEditorViewport: Clicking Background
+[2021.05.29-13.40.18:690][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-13.42.15:215][409]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka)
+[2021.05.29-13.42.17:502][541]Cmd: TRANSACTION UNDO
+[2021.05.29-13.42.17:503][541]LogEditorTransaction: Undo Move Actors
+[2021.05.29-13.42.21:939][801]LogEditorViewport: Clicking on Actor (LMB): BP_Lampka_kamienna_C (Lampka_kamienna2)
+[2021.05.29-13.42.22:954][859]Cmd: DELETE
+[2021.05.29-13.42.22:954][859]Cmd: ACTOR DELETE
+[2021.05.29-13.42.22:968][859]LogEditorActor: Deleted Actor: BP_Lampka_kamienna_C
+[2021.05.29-13.42.23:009][859]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.05.29-13.42.23:869][911]LogEditorViewport: Clicking on Actor (LMB): BP_Lampka_kamienna_C (Lampka_kamienna5)
+[2021.05.29-13.42.25:687][ 18]Cmd: DELETE
+[2021.05.29-13.42.25:687][ 18]Cmd: ACTOR DELETE
+[2021.05.29-13.42.25:697][ 18]LogEditorActor: Deleted Actor: BP_Lampka_kamienna_C
+[2021.05.29-13.42.25:723][ 18]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.29-13.42.26:274][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Lampka_kamienna_C (Lampka_kamienna6)
+[2021.05.29-13.42.26:478][ 61]Cmd: DELETE
+[2021.05.29-13.42.26:478][ 61]Cmd: ACTOR DELETE
+[2021.05.29-13.42.26:490][ 61]LogEditorActor: Deleted Actor: BP_Lampka_kamienna_C
+[2021.05.29-13.42.26:517][ 61]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.05.29-13.42.27:378][113]LogEditorViewport: Clicking on Actor (LMB): BP_Lampka_kamienna_C (Lampka_kamienna)
+[2021.05.29-13.42.27:636][126]Cmd: DELETE
+[2021.05.29-13.42.27:636][126]Cmd: ACTOR DELETE
+[2021.05.29-13.42.27:648][126]LogEditorActor: Deleted Actor: BP_Lampka_kamienna_C
+[2021.05.29-13.42.27:673][126]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.05.29-13.42.28:506][176]LogEditorViewport: Clicking on Actor (LMB): BP_Lampka_kamienna_C (Lampka_kamienna3)
+[2021.05.29-13.42.43:107][ 30]LogEditorViewport: Clicking Background
+[2021.05.29-13.42.44:567][116]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka12)
+[2021.05.29-13.42.47:868][301]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka)
+[2021.05.29-13.42.50:415][443]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka35)
+[2021.05.29-13.43.20:378][976]LogEditorViewport: Clicking Background
+[2021.05.29-13.44.09:439][443]LogEditorViewport: Clicking Background
+[2021.05.29-13.44.10:991][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-13.44.11:596][538]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level0218FCBF864C98F47EED8474ADD0E3E0F1.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-13.44.11:768][538]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_BuiltDataAF09BB7E4BC2E12BD47702AC6F41BF7A.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02_BuiltData.uasset'
+[2021.05.29-13.44.22:925][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-13.44.23:658][219]LogEditorViewport: Clicking Background
+[2021.05.29-13.44.26:621][387]Cmd: DELETE
+[2021.05.29-13.44.26:621][387]Cmd: ACTOR DELETE
+[2021.05.29-13.44.26:633][387]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-13.44.26:683][387]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.05.29-13.44.33:401][758]LogEditorViewport: Clicking Background
+[2021.05.29-13.54.11:580][797]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_Auto3BEE4DA5C49A5E2F22EB39D82C8C84064.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Autosaves/Game/StarterContent/Maps/Levels/Level02_Auto3.umap'
+[2021.05.29-13.54.11:583][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Levels/Level02' took 0.439
+[2021.05.29-13.54.11:583][797]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.439
+[2021.05.29-14.16.18:867][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_36)
+[2021.05.29-14.16.34:487][ 23]Cmd: TRANSACTION UNDO
+[2021.05.29-14.16.34:487][ 23]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2021.05.29-14.16.43:583][551]LogEditorViewport: Clicking Background
+[2021.05.29-14.16.50:497][952]LogEditorViewport: Clicking Background
+[2021.05.29-14.17.04:104][759]Cmd: TRANSACTION UNDO
+[2021.05.29-14.17.04:104][759]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2021.05.29-14.17.06:414][893]Cmd: TRANSACTION UNDO
+[2021.05.29-14.17.06:414][893]LogEditorTransaction: Undo Apply Material to Surface
+[2021.05.29-14.17.07:338][946]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka15)
+[2021.05.29-14.17.10:150][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.17.12:370][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.17.19:548][662]LogEditorViewport: Clicking Background
+[2021.05.29-14.17.19:940][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska2)
+[2021.05.29-14.17.21:032][747]Cmd: DELETE
+[2021.05.29-14.17.21:033][747]Cmd: ACTOR DELETE
+[2021.05.29-14.17.21:042][747]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.21:065][747]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.17.21:602][777]Cmd: DELETE
+[2021.05.29-14.17.21:602][777]Cmd: ACTOR DELETE
+[2021.05.29-14.17.21:611][777]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.17.21:653][777]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2021.05.29-14.17.21:898][791]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka9)
+[2021.05.29-14.17.21:961][792]Cmd: DELETE
+[2021.05.29-14.17.21:961][792]Cmd: ACTOR DELETE
+[2021.05.29-14.17.21:971][792]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.17.21:997][792]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.29-14.17.22:280][809]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka11)
+[2021.05.29-14.17.22:394][813]Cmd: DELETE
+[2021.05.29-14.17.22:394][813]Cmd: ACTOR DELETE
+[2021.05.29-14.17.22:403][813]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.17.22:428][813]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.17.22:646][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska)
+[2021.05.29-14.17.22:783][832]Cmd: DELETE
+[2021.05.29-14.17.22:783][832]Cmd: ACTOR DELETE
+[2021.05.29-14.17.22:791][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.22:813][832]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.17.23:127][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szafka_pod_miecze_ozdobne_Cube_042)
+[2021.05.29-14.17.23:209][853]Cmd: DELETE
+[2021.05.29-14.17.23:209][853]Cmd: ACTOR DELETE
+[2021.05.29-14.17.23:218][853]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.23:243][853]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.17.23:556][872]LogEditorViewport: Clicking on Actor (LMB): BP_DamageVolume_C (BP_Reset)
+[2021.05.29-14.17.23:610][874]Cmd: DELETE
+[2021.05.29-14.17.23:610][874]Cmd: ACTOR DELETE
+[2021.05.29-14.17.23:619][874]LogEditorActor: Deleted Actor: BP_DamageVolume_C
+[2021.05.29-14.17.23:643][874]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.17.23:949][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (miecze_ozdobne)
+[2021.05.29-14.17.24:023][894]Cmd: DELETE
+[2021.05.29-14.17.24:023][894]Cmd: ACTOR DELETE
+[2021.05.29-14.17.24:032][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.24:055][894]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.17.25:257][966]Cmd: TRANSACTION UNDO
+[2021.05.29-14.17.25:257][966]LogEditorTransaction: Undo Delete Actors
+[2021.05.29-14.17.25:488][977]Cmd: TRANSACTION UNDO
+[2021.05.29-14.17.25:488][977]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.29-14.17.25:818][996]Cmd: TRANSACTION UNDO
+[2021.05.29-14.17.25:818][996]LogEditorTransaction: Undo Delete Actors
+[2021.05.29-14.17.26:594][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (miecze_ozdobne)
+[2021.05.29-14.17.27:701][104]Cmd: DELETE
+[2021.05.29-14.17.27:701][104]Cmd: ACTOR DELETE
+[2021.05.29-14.17.27:710][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.27:733][104]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.17.28:241][135]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka10)
+[2021.05.29-14.17.28:370][140]Cmd: DELETE
+[2021.05.29-14.17.28:370][140]Cmd: ACTOR DELETE
+[2021.05.29-14.17.28:380][140]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.17.28:404][140]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.17.28:819][165]LogEditorViewport: Clicking on Actor (LMB): BP_DamageVolume_C (BP_Reset)
+[2021.05.29-14.17.29:204][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (miecze_ozdobne2)
+[2021.05.29-14.17.29:346][192]Cmd: DELETE
+[2021.05.29-14.17.29:346][192]Cmd: ACTOR DELETE
+[2021.05.29-14.17.29:354][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.29:379][192]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.17.29:709][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_29)
+[2021.05.29-14.17.30:011][226]Cmd: DELETE
+[2021.05.29-14.17.30:011][226]Cmd: ACTOR DELETE
+[2021.05.29-14.17.30:020][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.30:043][226]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.17.30:357][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_okna11)
+[2021.05.29-14.17.30:415][246]Cmd: DELETE
+[2021.05.29-14.17.30:416][246]Cmd: ACTOR DELETE
+[2021.05.29-14.17.30:425][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.30:448][246]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.17.30:935][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_30)
+[2021.05.29-14.17.31:059][278]Cmd: DELETE
+[2021.05.29-14.17.31:059][278]Cmd: ACTOR DELETE
+[2021.05.29-14.17.31:069][278]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.31:092][278]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.17.31:457][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_31)
+[2021.05.29-14.17.31:606][307]Cmd: DELETE
+[2021.05.29-14.17.31:606][307]Cmd: ACTOR DELETE
+[2021.05.29-14.17.31:615][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.31:639][307]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.17.32:679][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Zwieńczenie_Cube_033)
+[2021.05.29-14.17.32:828][373]Cmd: DELETE
+[2021.05.29-14.17.32:828][373]Cmd: ACTOR DELETE
+[2021.05.29-14.17.32:839][373]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.32:863][373]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.29-14.17.35:686][543]Cmd: TRANSACTION UNDO
+[2021.05.29-14.17.35:686][543]LogEditorTransaction: Undo Delete Actors
+[2021.05.29-14.17.36:383][582]LogEditorViewport: Clicking Background
+[2021.05.29-14.17.40:617][830]Cmd: DELETE
+[2021.05.29-14.17.40:617][830]Cmd: ACTOR DELETE
+[2021.05.29-14.17.40:626][830]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.17.40:667][830]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.05.29-14.17.41:280][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska15)
+[2021.05.29-14.17.41:378][868]Cmd: DELETE
+[2021.05.29-14.17.41:378][868]Cmd: ACTOR DELETE
+[2021.05.29-14.17.41:387][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.41:408][868]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.17.41:776][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska16)
+[2021.05.29-14.17.41:896][894]Cmd: DELETE
+[2021.05.29-14.17.41:896][894]Cmd: ACTOR DELETE
+[2021.05.29-14.17.41:905][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.17.41:932][894]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.29-14.17.43:200][967]Cmd: DELETE
+[2021.05.29-14.17.43:200][967]Cmd: ACTOR DELETE
+[2021.05.29-14.17.43:209][967]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.17.43:248][967]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.05.29-14.17.48:127][257]LogEditorViewport: Clicking on Actor (LMB): BP_VolumeWinVolume_C (BP_VolumeWinVolume)
+[2021.05.29-14.17.57:366][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.18.17:838][  1]Cmd: DELETE
+[2021.05.29-14.18.17:838][  1]Cmd: ACTOR DELETE
+[2021.05.29-14.18.17:847][  1]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.18.17:889][  1]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2021.05.29-14.18.18:623][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka3)
+[2021.05.29-14.18.18:775][ 50]Cmd: DELETE
+[2021.05.29-14.18.18:775][ 50]Cmd: ACTOR DELETE
+[2021.05.29-14.18.18:785][ 50]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.18.18:810][ 50]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.29-14.18.19:159][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka4)
+[2021.05.29-14.18.19:297][ 77]Cmd: DELETE
+[2021.05.29-14.18.19:297][ 77]Cmd: ACTOR DELETE
+[2021.05.29-14.18.19:305][ 77]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.18.19:334][ 77]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.05.29-14.18.19:785][103]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka5)
+[2021.05.29-14.18.19:970][112]Cmd: DELETE
+[2021.05.29-14.18.19:970][112]Cmd: ACTOR DELETE
+[2021.05.29-14.18.19:983][112]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.18.20:008][112]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.05.29-14.18.20:732][153]Cmd: DELETE
+[2021.05.29-14.18.20:732][153]Cmd: ACTOR DELETE
+[2021.05.29-14.18.20:741][153]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.18.20:779][153]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.05.29-14.18.21:141][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parawan_za_mieczem)
+[2021.05.29-14.18.21:274][179]Cmd: DELETE
+[2021.05.29-14.18.21:274][179]Cmd: ACTOR DELETE
+[2021.05.29-14.18.21:283][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.21:305][179]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.21:624][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_okna)
+[2021.05.29-14.18.21:700][199]Cmd: DELETE
+[2021.05.29-14.18.21:700][199]Cmd: ACTOR DELETE
+[2021.05.29-14.18.21:710][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.21:730][199]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.18.22:168][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_okna2)
+[2021.05.29-14.18.22:330][232]Cmd: DELETE
+[2021.05.29-14.18.22:330][232]Cmd: ACTOR DELETE
+[2021.05.29-14.18.22:339][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.22:363][232]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.18.23:417][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_20)
+[2021.05.29-14.18.23:491][295]Cmd: DELETE
+[2021.05.29-14.18.23:491][295]Cmd: ACTOR DELETE
+[2021.05.29-14.18.23:500][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.23:522][295]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.23:828][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_okna6)
+[2021.05.29-14.18.23:946][316]Cmd: DELETE
+[2021.05.29-14.18.23:946][316]Cmd: ACTOR DELETE
+[2021.05.29-14.18.23:955][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.23:977][316]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.24:281][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska9)
+[2021.05.29-14.18.24:417][340]Cmd: DELETE
+[2021.05.29-14.18.24:417][340]Cmd: ACTOR DELETE
+[2021.05.29-14.18.24:426][340]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.24:447][340]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.18.24:677][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_22)
+[2021.05.29-14.18.24:796][359]Cmd: DELETE
+[2021.05.29-14.18.24:796][359]Cmd: ACTOR DELETE
+[2021.05.29-14.18.24:804][359]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.24:828][359]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.18.25:090][375]LogEditorViewport: Clicking on Actor (LMB): BP_Lampion_swiecacy_C (Lampion_swiecacy)
+[2021.05.29-14.18.25:195][379]Cmd: DELETE
+[2021.05.29-14.18.25:195][379]Cmd: ACTOR DELETE
+[2021.05.29-14.18.25:204][379]LogEditorActor: Deleted Actor: BP_Lampion_swiecacy_C
+[2021.05.29-14.18.25:226][379]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.25:723][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska6)
+[2021.05.29-14.18.26:378][446]Cmd: DELETE
+[2021.05.29-14.18.26:378][446]Cmd: ACTOR DELETE
+[2021.05.29-14.18.26:387][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.26:408][446]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.18.26:715][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska5)
+[2021.05.29-14.18.26:890][472]Cmd: DELETE
+[2021.05.29-14.18.26:890][472]Cmd: ACTOR DELETE
+[2021.05.29-14.18.26:899][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.26:924][472]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.18.27:139][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_okna3)
+[2021.05.29-14.18.27:286][491]Cmd: DELETE
+[2021.05.29-14.18.27:287][491]Cmd: ACTOR DELETE
+[2021.05.29-14.18.27:296][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.27:321][491]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.18.27:685][513]LogEditorViewport: Clicking on Actor (LMB): BP_Lampion_swiecacy_C (Lampion_swiecacy2)
+[2021.05.29-14.18.42:460][393]Cmd: DELETE
+[2021.05.29-14.18.42:460][393]Cmd: ACTOR DELETE
+[2021.05.29-14.18.42:469][393]LogEditorActor: Deleted Actor: BP_Lampion_swiecacy_C
+[2021.05.29-14.18.42:495][393]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.18.42:911][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_okna4)
+[2021.05.29-14.18.43:055][423]Cmd: DELETE
+[2021.05.29-14.18.43:055][423]Cmd: ACTOR DELETE
+[2021.05.29-14.18.43:064][423]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.43:088][423]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.18.43:684][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_okna5)
+[2021.05.29-14.18.43:772][461]Cmd: DELETE
+[2021.05.29-14.18.43:772][461]Cmd: ACTOR DELETE
+[2021.05.29-14.18.43:781][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.43:805][461]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.18.44:085][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska14)
+[2021.05.29-14.18.44:210][483]Cmd: DELETE
+[2021.05.29-14.18.44:210][483]Cmd: ACTOR DELETE
+[2021.05.29-14.18.44:218][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.44:242][483]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.18.44:439][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska13)
+[2021.05.29-14.18.44:521][498]Cmd: DELETE
+[2021.05.29-14.18.44:521][498]Cmd: ACTOR DELETE
+[2021.05.29-14.18.44:530][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.44:551][498]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.18.44:832][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_21)
+[2021.05.29-14.18.44:946][519]Cmd: DELETE
+[2021.05.29-14.18.44:946][519]Cmd: ACTOR DELETE
+[2021.05.29-14.18.44:956][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.44:979][519]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.18.45:177][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parawan_za_mieczem2)
+[2021.05.29-14.18.45:349][538]Cmd: DELETE
+[2021.05.29-14.18.45:349][538]Cmd: ACTOR DELETE
+[2021.05.29-14.18.45:357][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.45:379][538]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.18.45:748][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stolik)
+[2021.05.29-14.18.45:882][565]Cmd: DELETE
+[2021.05.29-14.18.45:882][565]Cmd: ACTOR DELETE
+[2021.05.29-14.18.45:890][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.45:913][565]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.46:176][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ozdobnik_na_stol)
+[2021.05.29-14.18.46:559][601]Cmd: DELETE
+[2021.05.29-14.18.46:559][601]Cmd: ACTOR DELETE
+[2021.05.29-14.18.46:568][601]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.46:594][601]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.18.46:816][615]LogEditorViewport: Clicking Background
+[2021.05.29-14.18.47:182][637]LogEditorViewport: Clicking Background
+[2021.05.29-14.18.47:466][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska3)
+[2021.05.29-14.18.47:579][658]Cmd: DELETE
+[2021.05.29-14.18.47:579][658]Cmd: ACTOR DELETE
+[2021.05.29-14.18.47:587][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.47:611][658]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.18.47:807][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska10)
+[2021.05.29-14.18.47:889][673]Cmd: DELETE
+[2021.05.29-14.18.47:889][673]Cmd: ACTOR DELETE
+[2021.05.29-14.18.47:897][673]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.47:920][673]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.48:131][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska8)
+[2021.05.29-14.18.48:192][688]Cmd: DELETE
+[2021.05.29-14.18.48:192][688]Cmd: ACTOR DELETE
+[2021.05.29-14.18.48:201][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.48:221][688]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.18.48:707][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska4)
+[2021.05.29-14.18.48:879][724]Cmd: DELETE
+[2021.05.29-14.18.48:879][724]Cmd: ACTOR DELETE
+[2021.05.29-14.18.48:887][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.48:910][724]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.49:157][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska7)
+[2021.05.29-14.18.49:246][742]Cmd: DELETE
+[2021.05.29-14.18.49:246][742]Cmd: ACTOR DELETE
+[2021.05.29-14.18.49:254][742]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.18.49:276][742]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.50:524][816]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka7)
+[2021.05.29-14.18.50:583][818]Cmd: DELETE
+[2021.05.29-14.18.50:583][818]Cmd: ACTOR DELETE
+[2021.05.29-14.18.50:591][818]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.18.50:615][818]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.18.50:990][840]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka30)
+[2021.05.29-14.18.51:081][843]Cmd: DELETE
+[2021.05.29-14.18.51:081][843]Cmd: ACTOR DELETE
+[2021.05.29-14.18.51:090][843]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.18.51:116][843]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.29-14.18.51:515][866]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka6)
+[2021.05.29-14.18.51:673][873]Cmd: DELETE
+[2021.05.29-14.18.51:673][873]Cmd: ACTOR DELETE
+[2021.05.29-14.18.51:681][873]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.18.51:704][873]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.18.51:987][890]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka29)
+[2021.05.29-14.18.52:250][903]Cmd: DELETE
+[2021.05.29-14.18.52:250][903]Cmd: ACTOR DELETE
+[2021.05.29-14.18.52:258][903]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.18.52:279][903]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.18.52:559][920]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka8)
+[2021.05.29-14.18.52:630][922]Cmd: DELETE
+[2021.05.29-14.18.52:630][922]Cmd: ACTOR DELETE
+[2021.05.29-14.18.52:639][922]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.18.52:662][922]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.19.00:871][411]Cmd: DELETE
+[2021.05.29-14.19.00:871][411]Cmd: ACTOR DELETE
+[2021.05.29-14.19.00:880][411]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.19.00:919][411]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.05.29-14.19.01:146][423]LogEditorViewport: Clicking Background
+[2021.05.29-14.19.01:829][464]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka36)
+[2021.05.29-14.19.02:182][482]Cmd: DELETE
+[2021.05.29-14.19.02:182][482]Cmd: ACTOR DELETE
+[2021.05.29-14.19.02:190][482]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.19.02:214][482]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.19.02:547][502]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka37)
+[2021.05.29-14.19.02:697][509]Cmd: DELETE
+[2021.05.29-14.19.02:697][509]Cmd: ACTOR DELETE
+[2021.05.29-14.19.02:706][509]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.19.02:726][509]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.19.03:158][535]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka38)
+[2021.05.29-14.19.03:277][540]Cmd: DELETE
+[2021.05.29-14.19.03:277][540]Cmd: ACTOR DELETE
+[2021.05.29-14.19.03:285][540]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.19.03:306][540]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.19.03:827][571]LogEditorViewport: Clicking on Actor (LMB): BP_DamageVolume_C (BP_Reset)
+[2021.05.29-14.19.03:931][575]Cmd: DELETE
+[2021.05.29-14.19.03:931][575]Cmd: ACTOR DELETE
+[2021.05.29-14.19.03:939][575]LogEditorActor: Deleted Actor: BP_DamageVolume_C
+[2021.05.29-14.19.03:961][575]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.19.05:223][650]Cmd: TRANSACTION UNDO
+[2021.05.29-14.19.05:223][650]LogEditorTransaction: Undo Delete Actors
+[2021.05.29-14.19.25:647][858]LogEditorViewport: Clicking Background
+[2021.05.29-14.19.29:037][ 58]LogEditorViewport: Clicking Background
+[2021.05.29-14.19.29:486][ 84]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (belka_duża__Cube_17)
+[2021.05.29-14.19.29:550][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-14.19.30:650][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sztandar)
+[2021.05.29-14.19.31:735][209]Cmd: DELETE
+[2021.05.29-14.19.31:735][209]Cmd: ACTOR DELETE
+[2021.05.29-14.19.31:744][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.19.31:767][209]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.19.32:807][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sztandar2)
+[2021.05.29-14.19.33:244][295]Cmd: DELETE
+[2021.05.29-14.19.33:244][295]Cmd: ACTOR DELETE
+[2021.05.29-14.19.33:251][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.19.33:273][295]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.19.37:847][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska11)
+[2021.05.29-14.19.38:716][619]Cmd: DELETE
+[2021.05.29-14.19.38:716][619]Cmd: ACTOR DELETE
+[2021.05.29-14.19.38:725][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.19.38:748][619]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.19.39:161][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska12)
+[2021.05.29-14.19.39:225][645]Cmd: DELETE
+[2021.05.29-14.19.39:225][645]Cmd: ACTOR DELETE
+[2021.05.29-14.19.39:233][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.19.39:256][645]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.19.47:895][163]LogEditorViewport: Clicking on Actor (LMB): BP_VolumeWinVolume_C (BP_VolumeWinVolume)
+[2021.05.29-14.19.48:172][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ostatni_daszek_Plane_025)
+[2021.05.29-14.19.55:510][603]Cmd: DELETE
+[2021.05.29-14.19.55:511][603]Cmd: ACTOR DELETE
+[2021.05.29-14.19.55:519][603]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.19.55:554][603]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2021.05.29-14.19.56:245][642]Cmd: DELETE
+[2021.05.29-14.19.56:245][642]Cmd: ACTOR DELETE
+[2021.05.29-14.19.56:254][642]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.19.56:290][642]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.05.29-14.19.56:599][660]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka20)
+[2021.05.29-14.19.56:722][665]Cmd: DELETE
+[2021.05.29-14.19.56:722][665]Cmd: ACTOR DELETE
+[2021.05.29-14.19.56:730][665]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.19.56:755][665]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.19.57:020][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Drzwi3)
+[2021.05.29-14.19.57:117][683]Cmd: DELETE
+[2021.05.29-14.19.57:117][683]Cmd: ACTOR DELETE
+[2021.05.29-14.19.57:126][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.19.57:147][683]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.19.57:496][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Drzwi4)
+[2021.05.29-14.19.57:602][707]Cmd: DELETE
+[2021.05.29-14.19.57:602][707]Cmd: ACTOR DELETE
+[2021.05.29-14.19.57:611][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.19.57:639][707]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.05.29-14.19.57:938][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Drzwi5)
+[2021.05.29-14.19.58:011][726]Cmd: DELETE
+[2021.05.29-14.19.58:011][726]Cmd: ACTOR DELETE
+[2021.05.29-14.19.58:020][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.19.58:046][726]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.19.58:627][761]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2021.05.29-14.19.59:405][804]Cmd: DELETE
+[2021.05.29-14.19.59:405][804]Cmd: ACTOR DELETE
+[2021.05.29-14.19.59:414][804]LogEditorActor: Deleted Actor: RectLight
+[2021.05.29-14.19.59:437][804]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.20.02:536][988]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka21)
+[2021.05.29-14.20.03:305][ 32]Cmd: DELETE
+[2021.05.29-14.20.03:306][ 32]Cmd: ACTOR DELETE
+[2021.05.29-14.20.03:315][ 32]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.20.03:335][ 32]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.20.03:997][ 72]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2021.05.29-14.20.04:193][ 81]Cmd: DELETE
+[2021.05.29-14.20.04:193][ 81]Cmd: ACTOR DELETE
+[2021.05.29-14.20.04:201][ 81]LogEditorActor: Deleted Actor: RectLight
+[2021.05.29-14.20.04:225][ 81]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.20.04:524][ 99]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka22)
+[2021.05.29-14.20.04:918][121]Cmd: DELETE
+[2021.05.29-14.20.04:918][121]Cmd: ACTOR DELETE
+[2021.05.29-14.20.04:928][121]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.20.04:952][121]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.20.05:248][139]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka24)
+[2021.05.29-14.20.05:334][142]Cmd: DELETE
+[2021.05.29-14.20.05:334][142]Cmd: ACTOR DELETE
+[2021.05.29-14.20.05:343][142]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.20.05:364][142]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.20.05:676][161]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka23)
+[2021.05.29-14.20.06:266][193]Cmd: DELETE
+[2021.05.29-14.20.06:266][193]Cmd: ACTOR DELETE
+[2021.05.29-14.20.06:275][193]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.20.06:301][193]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.20.06:663][215]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka34)
+[2021.05.29-14.20.07:012][234]Cmd: DELETE
+[2021.05.29-14.20.07:012][234]Cmd: ACTOR DELETE
+[2021.05.29-14.20.07:020][234]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.20.07:040][234]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.05.29-14.20.07:429][258]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2021.05.29-14.20.07:569][264]Cmd: DELETE
+[2021.05.29-14.20.07:569][264]Cmd: ACTOR DELETE
+[2021.05.29-14.20.07:577][264]LogEditorActor: Deleted Actor: RectLight
+[2021.05.29-14.20.07:600][264]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.20.17:929][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_17)
+[2021.05.29-14.20.28:836][447]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.29-14.20.36:422][898]LogEditorViewport: Clicking on Actor (LMB): ActorWithDemage_C (ActorWithDemage4)
+[2021.05.29-14.20.49:386][657]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.29-14.20.53:293][880]Cmd: DELETE
+[2021.05.29-14.20.53:293][880]Cmd: ACTOR DELETE
+[2021.05.29-14.20.53:304][880]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.20.53:344][880]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2021.05.29-14.20.53:785][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parawan)
+[2021.05.29-14.20.53:909][910]Cmd: DELETE
+[2021.05.29-14.20.53:909][910]Cmd: ACTOR DELETE
+[2021.05.29-14.20.53:918][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.20.53:942][910]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.20.54:172][924]LogEditorViewport: Clicking Background
+[2021.05.29-14.20.54:476][942]LogEditorViewport: Clicking Background
+[2021.05.29-14.20.54:777][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parawan7)
+[2021.05.29-14.20.54:953][967]Cmd: DELETE
+[2021.05.29-14.20.54:953][967]Cmd: ACTOR DELETE
+[2021.05.29-14.20.54:962][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.20.54:985][967]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.20.55:382][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_28)
+[2021.05.29-14.20.55:910][ 19]Cmd: DELETE
+[2021.05.29-14.20.55:910][ 19]Cmd: ACTOR DELETE
+[2021.05.29-14.20.55:918][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.20.55:941][ 19]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.20.56:231][ 37]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka19)
+[2021.05.29-14.20.56:393][ 44]Cmd: DELETE
+[2021.05.29-14.20.56:393][ 44]Cmd: ACTOR DELETE
+[2021.05.29-14.20.56:402][ 44]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.20.56:425][ 44]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.20.56:909][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_27)
+[2021.05.29-14.20.57:233][ 90]Cmd: DELETE
+[2021.05.29-14.20.57:233][ 90]Cmd: ACTOR DELETE
+[2021.05.29-14.20.57:242][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.20.57:266][ 90]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.20.57:734][114]Cmd: DELETE
+[2021.05.29-14.20.57:734][114]Cmd: ACTOR DELETE
+[2021.05.29-14.20.57:742][114]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.20.57:777][114]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2021.05.29-14.20.58:018][128]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka18)
+[2021.05.29-14.20.58:122][132]Cmd: DELETE
+[2021.05.29-14.20.58:123][132]Cmd: ACTOR DELETE
+[2021.05.29-14.20.58:132][132]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.20.58:153][132]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.20.58:515][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_32)
+[2021.05.29-14.20.58:654][159]Cmd: DELETE
+[2021.05.29-14.20.58:655][159]Cmd: ACTOR DELETE
+[2021.05.29-14.20.58:662][159]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.20.58:688][159]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.20.58:985][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_33)
+[2021.05.29-14.20.59:266][191]Cmd: DELETE
+[2021.05.29-14.20.59:266][191]Cmd: ACTOR DELETE
+[2021.05.29-14.20.59:274][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.20.59:300][191]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.21.00:033][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_34)
+[2021.05.29-14.21.00:204][243]Cmd: DELETE
+[2021.05.29-14.21.00:204][243]Cmd: ACTOR DELETE
+[2021.05.29-14.21.00:213][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.21.00:237][243]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.29-14.21.00:519][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_35)
+[2021.05.29-14.21.00:638][265]Cmd: DELETE
+[2021.05.29-14.21.00:638][265]Cmd: ACTOR DELETE
+[2021.05.29-14.21.00:646][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.21.00:669][265]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.05.29-14.21.01:419][307]Cmd: DELETE
+[2021.05.29-14.21.01:419][307]Cmd: ACTOR DELETE
+[2021.05.29-14.21.01:428][307]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.21.01:464][307]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.05.29-14.21.02:195][348]Cmd: DELETE
+[2021.05.29-14.21.02:195][348]Cmd: ACTOR DELETE
+[2021.05.29-14.21.02:204][348]LogEditorActor: Deleted Actor: Brush
+[2021.05.29-14.21.02:235][348]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.05.29-14.21.02:553][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Drzwi7)
+[2021.05.29-14.21.02:692][372]Cmd: DELETE
+[2021.05.29-14.21.02:692][372]Cmd: ACTOR DELETE
+[2021.05.29-14.21.02:701][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.21.02:723][372]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.21.02:936][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Drzwi6)
+[2021.05.29-14.21.03:030][387]Cmd: DELETE
+[2021.05.29-14.21.03:030][387]Cmd: ACTOR DELETE
+[2021.05.29-14.21.03:039][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.21.03:059][387]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.29-14.21.03:477][412]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka17)
+[2021.05.29-14.21.03:816][430]Cmd: DELETE
+[2021.05.29-14.21.03:816][430]Cmd: ACTOR DELETE
+[2021.05.29-14.21.03:825][430]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.21.03:846][430]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.21.04:328][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Drzwi8)
+[2021.05.29-14.21.04:488][465]Cmd: DELETE
+[2021.05.29-14.21.04:488][465]Cmd: ACTOR DELETE
+[2021.05.29-14.21.04:497][465]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.21.04:521][465]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.21.04:735][478]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka39)
+[2021.05.29-14.21.04:809][480]Cmd: DELETE
+[2021.05.29-14.21.04:809][480]Cmd: ACTOR DELETE
+[2021.05.29-14.21.04:817][480]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.21.04:841][480]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.21.08:501][700]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka16)
+[2021.05.29-14.21.16:053][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brama)
+[2021.05.29-14.21.16:733][181]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (brama)
+[2021.05.29-14.21.16:772][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-14.21.17:632][231]LogEditorViewport: Clicking on Actor (LMB): BP_DamageVolume_C (BP_Reset)
+[2021.05.29-14.21.18:397][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brama)
+[2021.05.29-14.21.31:274][ 34]Cmd: DELETE
+[2021.05.29-14.21.31:274][ 34]Cmd: ACTOR DELETE
+[2021.05.29-14.21.31:283][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.21.31:306][ 34]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.29-14.21.37:057][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.21.37:456][381]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02D8E0160F4D1692BD7F5CF6B5ABB8996D.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-14.21.37:590][381]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_BuiltData5C3AF6D94E2C06379A64CBAD6F9E79FA.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02_BuiltData.uasset'
+[2021.05.29-14.21.48:596][977]LogEditorViewport: Clicking on Actor (LMB): BP_VolumeWinVolume_C (BP_VolumeWinVolume)
+[2021.05.29-14.21.51:104][121]LogEditorViewport: Clicking Background
+[2021.05.29-14.21.54:484][315]LogEditorViewport: Clicking Background
+[2021.05.29-14.21.57:650][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_36)
+[2021.05.29-14.22.11:573][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_42)
+[2021.05.29-14.22.27:085][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_42)
+[2021.05.29-14.22.30:744][453]LogEditorViewport: Clicking Background
+[2021.05.29-14.22.33:616][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_42)
+[2021.05.29-14.22.46:883][404]LogEditorViewport: Clicking Background
+[2021.05.29-14.22.48:243][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-14.22.49:246][544]LogEditorViewport: Clicking Background
+[2021.05.29-14.22.55:128][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.22.55:226][899]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.29-14.22.55:238][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.22.55:238][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.29-14.22.55:238][899]PIE: New page: PIE session: Level02 (29 maj 2021, 18:22:55)
+[2021.05.29-14.22.55:238][899]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02
+[2021.05.29-14.22.55:249][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012058s)
+[2021.05.29-14.22.55:250][899]LogAIModule: Creating AISystem for world Level02
+[2021.05.29-14.22.55:250][899]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2021.05.29-14.22.55:250][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Levels/Level02.Level02 to /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 (0.013046s)
+[2021.05.29-14.22.55:295][899]LogInit: XAudio2 using 'Głośniki (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.05.29-14.22.55:307][899]LogInit: FAudioDevice initialized.
+[2021.05.29-14.22.55:333][899]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.29-14.22.55:338][899]LogWorld: Bringing World /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 60) at 2021.05.29-16.22.55
+[2021.05.29-14.22.55:339][899]LogWorld: Bringing up level for play took: 0.003855
+[2021.05.29-14.22.55:352][899]PIE: Play in editor start time for /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02 0,412
+[2021.05.29-14.22.55:352][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.23.03:997][417]LogNet: Browse: /Game/StarterContent/Maps/Levels/Level02
+[2021.05.29-14.23.03:997][417]LogLoad: LoadMap: /Game/StarterContent/Maps/Levels/Level02
+[2021.05.29-14.23.04:024][417]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02
+[2021.05.29-14.23.04:036][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011248s)
+[2021.05.29-14.23.04:036][417]LogAIModule: Creating AISystem for world Level02
+[2021.05.29-14.23.04:036][417]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2021.05.29-14.23.04:036][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Levels/Level02.Level02 to /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 (0.012045s)
+[2021.05.29-14.23.04:036][417]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.29-14.23.04:040][417]LogWorld: Bringing World /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 60) at 2021.05.29-16.23.04
+[2021.05.29-14.23.04:041][417]LogWorld: Bringing up level for play took: 0.003268
+[2021.05.29-14.23.04:042][417]LogLoad: Took 0.044735 seconds to LoadMap(/Game/StarterContent/Maps/Levels/UEDPIE_0_Level02)
+[2021.05.29-14.23.08:322][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.23.08:322][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-14.23.08:356][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.29-14.23.08:357][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.23.08:380][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-14.23.08:422][676]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.05.29-14.23.10:490][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brama3)
+[2021.05.29-14.23.11:214][838]Cmd: DELETE
+[2021.05.29-14.23.11:214][838]Cmd: ACTOR DELETE
+[2021.05.29-14.23.11:220][838]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.23.11:244][838]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.23.14:342][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parawan4)
+[2021.05.29-14.23.20:840][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parawan6)
+[2021.05.29-14.23.23:661][558]Cmd: TRANSACTION UNDO
+[2021.05.29-14.23.23:661][558]LogEditorTransaction: Undo Move Actors
+[2021.05.29-14.23.26:390][718]LogEditorViewport: Clicking Background
+[2021.05.29-14.23.28:050][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.23.28:167][823]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.29-14.23.28:178][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.23.28:179][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.29-14.23.28:179][823]PIE: New page: PIE session: Level02 (29 maj 2021, 18:23:28)
+[2021.05.29-14.23.28:179][823]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02
+[2021.05.29-14.23.28:190][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011027s)
+[2021.05.29-14.23.28:190][823]LogAIModule: Creating AISystem for world Level02
+[2021.05.29-14.23.28:190][823]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2021.05.29-14.23.28:190][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Levels/Level02.Level02 to /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 (0.011749s)
+[2021.05.29-14.23.28:228][823]LogInit: XAudio2 using 'Głośniki (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.05.29-14.23.28:237][823]LogInit: FAudioDevice initialized.
+[2021.05.29-14.23.28:263][823]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.29-14.23.28:268][823]LogWorld: Bringing World /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 60) at 2021.05.29-16.23.28
+[2021.05.29-14.23.28:268][823]LogWorld: Bringing up level for play took: 0.003493
+[2021.05.29-14.23.28:281][823]PIE: Play in editor start time for /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02 -0,659
+[2021.05.29-14.23.28:281][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.24.20:785][972]LogBlueprintUserMessages: [BP_VolumeWinVolume_2] NIe znalazles wszystkich krysztalow!
+[2021.05.29-14.24.23:135][113]LogBlueprintUserMessages: [BP_Reset_5] Wypadłes!
+[2021.05.29-14.24.23:769][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.24.23:769][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-14.24.23:804][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.29-14.24.23:805][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.24.23:830][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-14.24.23:883][154]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.29-14.24.27:731][384]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka40)
+[2021.05.29-14.24.30:876][564]LogEditorViewport: Clicking Background
+[2021.05.29-14.24.31:310][590]LogEditorViewport: Clicking on Actor (LMB): BP_VolumeWinVolume_C (BP_VolumeWinVolume)
+[2021.05.29-14.24.36:111][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_okna9)
+[2021.05.29-14.24.46:995][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska19)
+[2021.05.29-14.24.47:632][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska19)
+[2021.05.29-14.24.53:238][872]LogEditorViewport: Clicking Background
+[2021.05.29-14.24.58:649][194]LogEditorViewport: Clicking Background
+[2021.05.29-14.25.00:358][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.25.14:498][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.25.14:736][149]LogActorFactory: Actor Factory created parawan_za_mieczem
+[2021.05.29-14.25.16:022][226]LogActorFactory: Actor Factory created parawan_za_mieczem
+[2021.05.29-14.25.19:542][432]LogEditorViewport: Clicking Background
+[2021.05.29-14.25.22:939][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.25.23:192][649]LogActorFactory: Actor Factory created Sciana_okna
+[2021.05.29-14.25.26:162][827]LogActorFactory: Actor Factory created Sciana_okna
+[2021.05.29-14.25.29:362][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska21)
+[2021.05.29-14.25.44:261][894]LogEditorViewport: Clicking Background
+[2021.05.29-14.25.53:920][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.25.54:241][486]LogActorFactory: Actor Factory created stolik
+[2021.05.29-14.25.56:077][596]LogActorFactory: Actor Factory created stolik
+[2021.05.29-14.25.57:377][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.25.57:583][683]LogActorFactory: Actor Factory created miecze_ozdobne
+[2021.05.29-14.25.58:987][767]LogActorFactory: Actor Factory created miecze_ozdobne
+[2021.05.29-14.25.59:522][797]LogEditorViewport: Clicking Background
+[2021.05.29-14.26.01:564][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.26.01:818][933]LogActorFactory: Actor Factory created Moneta
+[2021.05.29-14.26.02:786][991]LogActorFactory: Actor Factory created Moneta
+[2021.05.29-14.26.03:387][ 26]Cmd: TRANSACTION UNDO
+[2021.05.29-14.26.03:387][ 26]LogEditorTransaction: Undo Create Actors
+[2021.05.29-14.26.13:349][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.26.17:398][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.26.17:449][860]LogTexture: Display: Building textures: Krzesełko_wysokie (BGRA8, 277X612)
+[2021.05.29-14.26.17:449][860]LogMaterial: Display: Missing cached shader map for material M_Krzesełko_wysokie_Mat, compiling. 
+[2021.05.29-14.26.17:515][860]LogStaticMesh: Building static mesh wysokie_krzzeselko...
+[2021.05.29-14.26.17:520][860]LogShaderCompilers: Display: Shaders left to compile 45
+[2021.05.29-14.26.17:520][860]LogShaderCompilers: Display: Shaders left to compile 35
+[2021.05.29-14.26.17:520][860]LogShaderCompilers: Display: Shaders left to compile 25
+[2021.05.29-14.26.17:520][860]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.05.29-14.26.17:520][860]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.05.29-14.26.17:544][860]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Assety_i_materialy_wlasne/Meshe/wysokie_krzzeselko.wysokie_krzzeselko
+[2021.05.29-14.26.17:565][860]LogActorFactory: Actor Factory created wysokie_krzzeselko
+[2021.05.29-14.26.18:671][926]LogActorFactory: Actor Factory created wysokie_krzzeselko
+[2021.05.29-14.26.19:994][  2]LogEditorViewport: Clicking Background
+[2021.05.29-14.26.21:234][ 76]Cmd: TRANSACTION UNDO
+[2021.05.29-14.26.21:234][ 76]LogEditorTransaction: Undo Clicking Background
+[2021.05.29-14.26.23:839][228]LogEditorViewport: Clicking Background
+[2021.05.29-14.26.25:465][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wysokie_krzzeselko)
+[2021.05.29-14.26.30:187][596]LogEditorViewport: Clicking on Actor (LMB): BP_DamageVolume_C (BP_Reset)
+[2021.05.29-14.26.31:551][675]LogEditorViewport: Clicking Background
+[2021.05.29-14.26.33:927][817]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka28)
+[2021.05.29-14.26.41:630][263]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka34)
+[2021.05.29-14.26.42:268][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wysokie_krzzeselko2)
+[2021.05.29-14.26.44:428][423]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.29-14.26.56:961][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.26.57:180][177]LogActorFactory: Actor Factory created belka_duża__Cube_010
+[2021.05.29-14.26.57:995][225]LogActorFactory: Actor Factory created belka_duża__Cube_010
+[2021.05.29-14.26.58:334][243]Cmd: TRANSACTION UNDO
+[2021.05.29-14.26.58:334][243]LogEditorTransaction: Undo Create Actors
+[2021.05.29-14.26.59:020][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_41)
+[2021.05.29-14.27.09:179][869]LogEditorViewport: Clicking on Actor (LMB): BP_DamageVolume_C (BP_Reset)
+[2021.05.29-14.27.09:473][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_48)
+[2021.05.29-14.27.12:085][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.27.13:137][100]LogEditorViewport: Clicking Background
+[2021.05.29-14.27.16:795][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_49)
+[2021.05.29-14.27.20:886][553]LogEditorViewport: Clicking Background
+[2021.05.29-14.27.30:139][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.27.30:175][108]LogStaticMesh: Building static mesh Sciana_drzwi_sciana_drzwi...
+[2021.05.29-14.27.30:192][108]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Assety_i_materialy_wlasne/Meshe/Sciana_drzwi_sciana_drzwi.Sciana_drzwi_sciana_drzwi
+[2021.05.29-14.27.30:417][121]LogActorFactory: Actor Factory created Sciana_drzwi_sciana_drzwi
+[2021.05.29-14.27.31:354][177]LogActorFactory: Actor Factory created Sciana_drzwi_sciana_drzwi
+[2021.05.29-14.27.54:847][570]LogEditorViewport: Clicking Background
+[2021.05.29-14.27.55:796][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sciana_drzwi_sciana_drzwi)
+[2021.05.29-14.27.58:400][779]LogEditorViewport: Clicking Background
+[2021.05.29-14.28.00:602][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sztabka_duża_pion_pionowa_deska20)
+[2021.05.29-14.28.05:380][190]Cmd: DELETE
+[2021.05.29-14.28.05:380][190]Cmd: ACTOR DELETE
+[2021.05.29-14.28.05:386][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.29-14.28.05:414][190]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.29-14.28.09:713][448]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka34)
+[2021.05.29-14.28.12:615][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.28.12:977][620]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level023BECA72B45831EBA0AC820B0597CF162.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-14.28.13:094][620]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_BuiltData86B7DD3D4E1155135D34F6A76146D78E.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02_BuiltData.uasset'
+[2021.05.29-14.28.13:536][645]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.29-14.28.13:547][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.28.13:547][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.29-14.28.13:547][645]PIE: New page: PIE session: Level02 (29 maj 2021, 18:28:13)
+[2021.05.29-14.28.13:547][645]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02
+[2021.05.29-14.28.13:559][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012589s)
+[2021.05.29-14.28.13:560][645]LogAIModule: Creating AISystem for world Level02
+[2021.05.29-14.28.13:560][645]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2021.05.29-14.28.13:560][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Levels/Level02.Level02 to /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 (0.013281s)
+[2021.05.29-14.28.13:598][645]LogInit: XAudio2 using 'Głośniki (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.05.29-14.28.13:608][645]LogInit: FAudioDevice initialized.
+[2021.05.29-14.28.13:640][645]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.29-14.28.13:645][645]LogWorld: Bringing World /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 60) at 2021.05.29-16.28.13
+[2021.05.29-14.28.13:645][645]LogWorld: Bringing up level for play took: 0.003889
+[2021.05.29-14.28.13:658][645]PIE: Play in editor start time for /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02 0,717
+[2021.05.29-14.28.13:658][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.28.29:801][613]LogBlueprintUserMessages: [ActorWithDemage3] Obrazenia!
+[2021.05.29-14.28.32:801][793]LogNet: Browse: /Game/StarterContent/Maps/Levels/Level02
+[2021.05.29-14.28.32:801][793]LogLoad: LoadMap: /Game/StarterContent/Maps/Levels/Level02
+[2021.05.29-14.28.32:825][793]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02
+[2021.05.29-14.28.32:837][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012087s)
+[2021.05.29-14.28.32:837][793]LogAIModule: Creating AISystem for world Level02
+[2021.05.29-14.28.32:837][793]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2021.05.29-14.28.32:837][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Levels/Level02.Level02 to /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 (0.012782s)
+[2021.05.29-14.28.32:837][793]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.29-14.28.32:842][793]LogWorld: Bringing World /Game/StarterContent/Maps/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 60) at 2021.05.29-16.28.32
+[2021.05.29-14.28.32:842][793]LogWorld: Bringing up level for play took: 0.003806
+[2021.05.29-14.28.32:843][793]LogLoad: Took 0.042079 seconds to LoadMap(/Game/StarterContent/Maps/Levels/UEDPIE_0_Level02)
+[2021.05.29-14.29.13:479][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.29.13:479][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-14.29.13:513][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.29-14.29.13:514][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02' with GeneratedClass '/Game/StarterContent/Maps/Levels/Level02.Level02_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02'
+[2021.05.29-14.29.13:540][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.29-14.29.13:592][229]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.29-14.29.14:455][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.29.14:804][284]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02D87E83A44300AB5006940082A5469EE5.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-14.29.14:922][284]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_BuiltDataEE22A8AC4957BB6504010492699048DC.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02_BuiltData.uasset'
+[2021.05.29-14.29.20:756][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_46)
+[2021.05.29-14.29.31:855][278]Cmd: TRANSACTION UNDO
+[2021.05.29-14.29.31:855][278]LogEditorTransaction: Undo Move Actors
+[2021.05.29-14.29.37:934][633]LogEditorViewport: Clicking Background
+[2021.05.29-14.29.38:470][664]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka38)
+[2021.05.29-14.29.39:361][715]Cmd: DELETE
+[2021.05.29-14.29.39:361][715]Cmd: ACTOR DELETE
+[2021.05.29-14.29.39:366][715]LogEditorActor: Deleted Actor: BP_Monetka_C
+[2021.05.29-14.29.39:391][715]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.29-14.29.40:174][762]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka37)
+[2021.05.29-14.29.41:732][852]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.29-14.29.42:447][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_52)
+[2021.05.29-14.29.42:764][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belka_duża__Cube_52)
+[2021.05.29-14.29.46:882][150]LogEditorViewport: Clicking on Actor (LMB): BP_Monetka_C (BP_Monetka37)
+[2021.05.29-14.29.49:652][313]LogEditorViewport: Clicking Background
+[2021.05.29-14.29.58:725][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.29.59:082][862]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level0275692D114573BA9E2BEB71B229AEE375.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-14.29.59:196][862]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_BuiltData51F3C28448074DDD8C9754A69CC8D3A7.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02_BuiltData.uasset'
+[2021.05.29-14.31.09:019][209]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02E0AF6BA94F7022EDFD8747AEF06B1D9A.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-14.31.09:133][209]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_BuiltData449D818C425282D37C7DC7A015939B58.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02_BuiltData.uasset'
+[2021.05.29-14.31.19:749][840]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.29-14.31.19:790][840]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Levels/MainLevel.MainLevel
+[2021.05.29-14.31.19:814][840]Cmd: MAP LOAD FILE="../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.29-14.31.19:814][840]LightingResults: New page: Lighting Build
+[2021.05.29-14.31.19:815][840]LoadErrors: New page: Loading map: MainLevel.umap
+[2021.05.29-14.31.19:817][840]MapCheck: New page: Map Check
+[2021.05.29-14.31.19:817][840]LightingResults: New page: Lighting Build
+[2021.05.29-14.31.19:955][840]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.29-14.31.19:995][840]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.29-14.31.20:069][840]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74,072ms to complete.
+[2021.05.29-14.31.20:069][840]LogFileHelpers: Loading map 'MainLevel' took 0.256
+[2021.05.29-14.31.21:910][928]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevelA79A468940BF8E5CF59EEDBF7322DDFD.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-14.31.22:078][928]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltDataC8AE5EAD463DBB45AC4761855046ED2B.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-14.31.28:112][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.31.29:690][382]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.BP_VolumeWinVolume
+[2021.05.29-14.33.06:271][104]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-14.33.38:848][649]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel9D07551F4EE807B26A445B8B04F83D21.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-14.33.38:963][649]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltDataA84624734A39817D5F76ADBDEAA95AC0.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-14.35.02:723][706]LogRenderer: Reallocating scene render targets to support 968x392 Format 10 NumSamples 1 (Frame:8647).
+[2021.05.29-14.35.16:998][311]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-14.35.42:126][779]BlueprintLog: New page: Compile BP_VolumeWinVolume
+[2021.05.29-14.35.42:916][818]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.29-14.35.42:924][818]LogSlate: Window 'BP_VolumeWinVolume*' being destroyed
+[2021.05.29-14.35.53:514][989]MapCheck: New page: Map Check
+[2021.05.29-14.35.53:534][989]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.29-14.35.53:534][989]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.29-14.35.53:692][989]LightingResults: New page: Lighting Build - 29 maj 2021, 18:35:53
+[2021.05.29-14.35.53:737][989]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.29-14.35.53:992][989]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.29-14.35.54:003][989]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.29-14.35.54:516][989]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.29-14.35.54:516][989]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17212
+[2021.05.29-14.36.01:343][989]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.29-14.36.01:344][989]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.29-14.36.01:344][989]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.29-14.36.01:344][989]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.29-14.36.01:344][989]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.29-14.36.01:344][989]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.29-14.36.01:566][989]LogEditorBuildUtils: Build time 0:08
+[2021.05.29-14.36.04:816][147]Job is a success!
+[2021.05.29-14.36.04:892][149]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2021.05.29-14.36.04:892][149]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.29-14.36.04:893][149]LogVolumetricLightmapImport:      BrickData 260x5x5 = 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.05.29-14.36.04:893][149]LogVolumetricLightmapImport:      Bricks at Level
+[2021.05.29-14.36.04:893][149]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2021.05.29-14.36.04:893][149]LogVolumetricLightmapImport:          1: 3.8% covering 3.1% of volume
+[2021.05.29-14.36.04:893][149]LogVolumetricLightmapImport:          2: 94.2% covering 1.2% of volume
+[2021.05.29-14.36.05:281][149]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2021.05.29-14.36.05:281][149]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.05.29-14.36.05:281][149]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.05.29-14.36.05:281][149]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2021.05.29-14.36.05:281][149]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.05.29-14.36.05:281][149]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.05.29-14.36.05:420][149]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X256)
+[2021.05.29-14.36.05:420][149]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2021.05.29-14.36.05:476][149]Lightmass on LAPTOP-G3O3VCMT: 3.21 sec total, 170 ms importing, 11 ms setup, 987 ms photons, 1.98 sec processing, 0 ms extra exporting [269/269 mappings]. Threads: 21.1 sec total, 10.8 sec processing.
+[2021.05.29-14.36.05:490][149]LogStaticLightingSystem: Illumination: 11.7 sec (320 ms encoding lightmaps, 132 ms encoding shadowmaps)
+[2021.05.29-14.36.05:490][149]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (2.7 MB streaming, 0.7 MB non-streaming), 4 textures
+[2021.05.29-14.36.05:490][149]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 2 textures
+[2021.05.29-14.36.06:352][149]DumpUnbuiltLightIteractions
+[2021.05.29-14.36.06:352][149]Lights with unbuilt interactions: 0
+[2021.05.29-14.36.06:352][149]
+[2021.05.29-14.36.06:352][149]Primitives with unbuilt interactions: 0
+[2021.05.29-14.36.06:391][150]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.29-14.36.06:391][150]MapCheck: New page: MainLevel - 29 maj 2021, 18:36:06
+[2021.05.29-14.36.06:469][150]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78,148ms to complete.
+[2021.05.29-14.36.17:218][791]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2021.05.29-14.36.17:224][791]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.05.29-14.36.17:224][791]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.05.29-14.36.17:480][791]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2021.05.29-14.36.17:480][791]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.05.29-14.36.17:480][791]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.05.29-14.36.17:489][791]LogAIModule: Creating AISystem for world Level02
+[2021.05.29-14.36.17:519][791]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Levels/Level02.Level02
+[2021.05.29-14.36.18:883][791]LogSlate: Window 'Save Content' being destroyed
+[2021.05.29-14.36.18:924][791]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_VolumeWinVolume1E8C37C24FB6CB5CDB0AA78377C0F295.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Volumes/BP_VolumeWinVolume.uasset'
+[2021.05.29-14.36.19:355][791]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevelBEEC9A44467AB71FC3130A909B98FECD.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-14.36.19:373][791]LogFileHelpers: Saving map 'MainLevel' took 0.448
+[2021.05.29-14.36.19:471][791]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltData8A5A88694B51690C08B1CF896FAA4374.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-14.36.19:473][791]Cmd: MAP LOAD FILE="../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.29-14.36.19:473][791]LightingResults: New page: Lighting Build
+[2021.05.29-14.36.19:474][791]LoadErrors: New page: Loading map: Level02.umap
+[2021.05.29-14.36.19:476][791]MapCheck: New page: Map Check
+[2021.05.29-14.36.19:476][791]LightingResults: New page: Lighting Build
+[2021.05.29-14.36.19:593][791]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.29-14.36.19:632][791]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.29-14.36.19:701][791]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69,415ms to complete.
+[2021.05.29-14.36.19:701][791]LogFileHelpers: Loading map 'Level02' took 0.229
+[2021.05.29-14.36.21:604][903]MapCheck: New page: Map Check
+[2021.05.29-14.36.21:625][903]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.29-14.36.21:625][903]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.29-14.36.21:734][903]LightingResults: New page: Lighting Build - 29 maj 2021, 18:36:21
+[2021.05.29-14.36.21:740][903]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.29-14.36.21:743][903]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.29-14.36.21:743][903]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.29-14.36.21:743][903]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.29-14.36.21:743][903]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17212
+[2021.05.29-14.36.26:307][903]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.29-14.36.26:308][903]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.29-14.36.26:308][903]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.29-14.36.26:308][903]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.29-14.36.26:308][903]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.29-14.36.26:308][903]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.29-14.36.26:445][903]LogEditorBuildUtils: Build time 0:04
+[2021.05.29-14.36.26:459][903]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Krzesełko_wysokie_Mat, compiling. 
+[2021.05.29-14.36.26:465][903]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Krzesełko_wysokie_Mat, compiling. 
+[2021.05.29-14.36.26:471][903]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.05.29-14.36.26:471][903]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Krzesełko_wysokie_Mat, compiling. 
+[2021.05.29-14.36.26:491][904]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.05.29-14.36.30:390][916]Job is a success!
+[2021.05.29-14.36.31:102][917]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2021.05.29-14.36.31:102][917]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.29-14.36.31:102][917]LogVolumetricLightmapImport:      BrickData 220x5x5 = 0.2Mb
+[2021.05.29-14.36.31:103][917]LogVolumetricLightmapImport:      Bricks at Level
+[2021.05.29-14.36.31:103][917]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2021.05.29-14.36.31:103][917]LogVolumetricLightmapImport:          1: 4.5% covering 3.1% of volume
+[2021.05.29-14.36.31:103][917]LogVolumetricLightmapImport:          2: 93.2% covering 1.0% of volume
+[2021.05.29-14.36.31:143][917]LogMaterial: Warning: Material /Game/StarterContent/Materials/Materialy_moje/M_Krzesełko_wysokie_Mat.M_Krzesełko_wysokie_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.05.29-14.36.31:146][917]LogMaterial: Display: Missing cached shader map for material M_Krzesełko_wysokie_Mat, compiling. 
+[2021.05.29-14.36.31:189][917]LogShaderCompilers: Display: Shaders left to compile 58
+[2021.05.29-14.36.31:189][917]LogShaderCompilers: Display: Shaders left to compile 48
+[2021.05.29-14.36.31:189][917]LogShaderCompilers: Display: Shaders left to compile 38
+[2021.05.29-14.36.31:189][917]LogShaderCompilers: Display: Shaders left to compile 28
+[2021.05.29-14.36.31:189][917]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.05.29-14.36.31:189][917]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.05.29-14.36.31:519][917]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2021.05.29-14.36.31:519][917]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.05.29-14.36.31:519][917]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.05.29-14.36.31:519][917]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.05.29-14.36.31:519][917]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2021.05.29-14.36.31:519][917]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.05.29-14.36.31:648][917]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2021.05.29-14.36.31:648][917]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
+[2021.05.29-14.36.31:660][917]Lightmass on LAPTOP-G3O3VCMT: 3.28 sec total, 110 ms importing, 8 ms setup, 975 ms photons, 2.14 sec processing, 0 ms extra exporting [164/164 mappings]. Threads: 22.9 sec total, 5.29 sec processing.
+[2021.05.29-14.36.31:702][917]LogStaticLightingSystem: Illumination: 9.62 sec (327 ms encoding lightmaps, 125 ms encoding shadowmaps)
+[2021.05.29-14.36.31:702][917]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 4 textures
+[2021.05.29-14.36.31:702][917]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.05.29-14.36.32:324][917]DumpUnbuiltLightIteractions
+[2021.05.29-14.36.32:324][917]Lights with unbuilt interactions: 0
+[2021.05.29-14.36.32:324][917]
+[2021.05.29-14.36.32:324][917]Primitives with unbuilt interactions: 0
+[2021.05.29-14.36.34:296][918]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.29-14.36.34:296][918]MapCheck: New page: Level02 - 29 maj 2021, 18:36:34
+[2021.05.29-14.36.34:372][918]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75,199ms to complete.
+[2021.05.29-14.38.36:200][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.38.39:147][547]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02F1710FCB405241D071CA7F9AA440D919.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-14.38.39:248][547]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_BuiltDataC8109E884CC5949A599B64AEC3F70E42.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02_BuiltData.uasset'
+[2021.05.29-14.39.19:373][711]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Pawns/BP_PlayerPawn.BP_PlayerPawn
+[2021.05.29-14.39.26:779][890]LogRenderer: Reallocating scene render targets to support 968x472 Format 10 NumSamples 1 (Frame:1).
+[2021.05.29-14.39.51:591][373]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.29-14.42.27:397][817]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.29-14.42.32:919][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.42.54:008][400]LogEditorTransaction: Undo Modify Component(s)
+[2021.05.29-14.42.57:560][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.43.11:068][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-14.43.13:085][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-14.43.15:635][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.29-14.43.18:280][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.29-14.44.08:233][811]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.29-14.44.09:407][871]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.29-14.45.48:457][743]LogEditorTransaction: Undo Promote to Local Variable
+[2021.05.29-14.45.59:283][387]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.29-14.47.18:568][772]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.29-14.48.19:185][ 54]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.29-14.48.19:201][ 54]LogBlueprint: Error: [Compiler BP_PlayerPawn] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.05.29-14.48.19:323][ 54]LogBlueprint: Warning: [Compiler BP_PlayerPawn] [7069,62] Compile of BP_PlayerPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 136 ms] (/Game/StarterContent/Blueprints/Pawns/BP_PlayerPawn.BP_PlayerPawn)
+[2021.05.29-14.49.31:650][283]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Levels/Level02.Level02:PersistentLevel.Level02
+[2021.05.29-14.49.46:040][848]BlueprintLog: New page: Compile Level02
+[2021.05.29-14.51.43:665][728]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level02_Auto4EFB10F4B4CA02CFD1F772EA41D9FA1FB.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Autosaves/Game/StarterContent/Maps/Levels/Level02_Auto4.umap'
+[2021.05.29-14.51.43:667][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Levels/Level02' took 0.480
+[2021.05.29-14.51.43:668][728]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.480
+[2021.05.29-14.51.43:670][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Blueprints/Pawns/BP_PlayerPawn] ([1] browsable assets)...
+[2021.05.29-14.51.43:686][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/Pawns/BP_PlayerPawn.BP_PlayerPawn]
+[2021.05.29-14.51.43:686][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Pawns/BP_PlayerPawn]
+[2021.05.29-14.51.43:738][728]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_PlayerPawn_Auto465D7894543AD43A854AA6FAA514E8742.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Autosaves/Game/StarterContent/Blueprints/Pawns/BP_PlayerPawn_Auto4.uasset'
+[2021.05.29-14.51.43:740][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/Materialy_moje/M_Krzesełko_wysokie_Mat] ([1] browsable assets)...
+[2021.05.29-14.51.43:753][728]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/Materialy_moje/M_Krzesełko_wysokie_Mat.M_Krzesełko_wysokie_Mat]
+[2021.05.29-14.51.43:753][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/Materialy_moje/M_Krzesełko_wysokie_Mat]
+[2021.05.29-14.51.43:776][728]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/M_Krzesełko_wysokie_Mat_Auto43C6F167F4AFB028CD9D4CDAA91888349.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Autosaves/Game/StarterContent/Materials/Materialy_moje/M_Krzesełko_wysokie_Mat_Auto4.uasset'
+[2021.05.29-14.51.43:777][728]LogFileHelpers: Auto-saving content packages took 0.108
+[2021.05.29-15.02.10:547][543]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.29-15.02.48:403][287]LogSlate: Window 'BP_PlayerPawn*' being destroyed
+[2021.05.29-15.02.56:395][750]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.29-15.02.56:464][750]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Levels/MainLevel.MainLevel
+[2021.05.29-15.02.58:025][750]LogSlate: Window 'Save Content' being destroyed
+[2021.05.29-15.02.58:101][750]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/BP_PlayerPawn1478FE924DDD5587BCF5DE908FEEA770.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2021.05.29-15.02.58:614][750]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/Level028D7BB3AD46CEC86C4555449F97CD3646.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/Level02.umap'
+[2021.05.29-15.02.58:636][750]LogFileHelpers: Saving map 'Level02' took 0.532
+[2021.05.29-15.02.58:644][750]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/M_Krzesełko_wysokie_MatD8D436684F6BF7A81B047E80481A7328.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Materials/Materialy_moje/M_Krzesełko_wysokie_Mat.uasset'
+[2021.05.29-15.02.58:647][750]Cmd: MAP LOAD FILE="../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.29-15.02.58:647][750]LightingResults: New page: Lighting Build
+[2021.05.29-15.02.58:648][750]LoadErrors: New page: Loading map: MainLevel.umap
+[2021.05.29-15.02.58:650][750]MapCheck: New page: Map Check
+[2021.05.29-15.02.58:650][750]LightingResults: New page: Lighting Build
+[2021.05.29-15.02.58:852][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.29-15.02.58:901][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.29-15.02.58:995][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93,064ms to complete.
+[2021.05.29-15.02.58:995][750]LogFileHelpers: Loading map 'MainLevel' took 0.349
+[2021.05.29-15.14.51:308][734]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/GameModes/BP_GameMode.BP_GameMode
+[2021.05.29-15.15.00:971][233]LogSlate: Window 'BP_GameMode' being destroyed
+[2021.05.29-15.15.06:226][543]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/GameModes/BP_GameMode.BP_GameMode
+[2021.05.29-15.15.12:449][881]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel08CB888541DADC117C014BB4C38D8730.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel.umap'
+[2021.05.29-15.15.12:609][881]LogSavePackage: Moving '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Saved/MainLevel_BuiltData486FC78A4A851A93BAACB1B523B1D2D4.tmp' to '../../../../Projekty/BallRunner_W.Gawlik/BallRunner/Content/StarterContent/Maps/Levels/MainLevel_BuiltData.uasset'
+[2021.05.29-15.15.20:093][134]LogSlate: Window 'BallRunner - Unreal Editor' being destroyed
+[2021.05.29-15.15.20:096][134]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.05.29-15.15.20:405][135]Cmd: QUIT_EDITOR
+[2021.05.29-15.15.20:647][135]LogExit: Preparing to exit.
+[2021.05.29-15.15.21:082][135]LogExit: Editor shut down
+[2021.05.29-15.15.21:083][135]LogExit: Transaction tracking system shut down
+[2021.05.29-15.15.21:764][135]LogExit: Object subsystem successfully closed.
+[2021.05.29-15.15.21:794][135]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.05.29-15.15.21:800][135]LogD3D11RHI: Shutdown
+[2021.05.29-15.15.21:800][135]LogD3D11RHI: CleanupD3DDevice
+[2021.05.29-15.15.21:806][135]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.05.29-15.15.21:813][135]LogModuleManager: Shutting down and abandoning module MeshBuilder (620)
+[2021.05.29-15.15.21:814][135]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2021.05.29-15.15.21:814][135]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2021.05.29-15.15.21:814][135]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2021.05.29-15.15.21:814][135]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2021.05.29-15.15.21:814][135]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (610)
+[2021.05.29-15.15.21:814][135]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2021.05.29-15.15.21:814][135]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2021.05.29-15.15.21:816][135]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2021.05.29-15.15.21:817][135]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2021.05.29-15.15.21:818][135]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2021.05.29-15.15.21:818][135]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2021.05.29-15.15.22:513][135]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2021.05.29-15.15.22:514][135]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2021.05.29-15.15.22:558][135]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2021.05.29-15.15.22:568][135]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2021.05.29-15.15.22:569][135]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2021.05.29-15.15.22:710][135]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2021.05.29-15.15.22:711][135]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2021.05.29-15.15.22:711][135]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2021.05.29-15.15.22:711][135]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2021.05.29-15.15.22:711][135]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2021.05.29-15.15.22:711][135]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2021.05.29-15.15.22:711][135]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2021.05.29-15.15.22:711][135]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2021.05.29-15.15.22:714][135]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2021.05.29-15.15.22:715][135]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2021.05.29-15.15.22:815][135]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2021.05.29-15.15.22:916][135]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2021.05.29-15.15.22:916][135]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2021.05.29-15.15.22:916][135]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2021.05.29-15.15.22:916][135]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2021.05.29-15.15.22:916][135]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2021.05.29-15.15.22:916][135]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2021.05.29-15.15.22:916][135]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2021.05.29-15.15.22:917][135]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2021.05.29-15.15.22:917][135]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2021.05.29-15.15.22:917][135]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2021.05.29-15.15.22:917][135]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2021.05.29-15.15.22:918][135]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2021.05.29-15.15.22:919][135]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2021.05.29-15.15.22:919][135]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2021.05.29-15.15.22:919][135]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2021.05.29-15.15.22:919][135]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2021.05.29-15.15.22:919][135]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2021.05.29-15.15.22:919][135]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2021.05.29-15.15.22:920][135]LogModuleManager: Shutting down and abandoning module Media (243)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2021.05.29-15.15.22:926][135]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2021.05.29-15.15.22:927][135]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2021.05.29-15.15.22:927][135]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2021.05.29-15.15.22:927][135]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2021.05.29-15.15.22:927][135]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2021.05.29-15.15.22:927][135]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module Core (188)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2021.05.29-15.15.22:929][135]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2021.05.29-15.15.22:930][135]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2021.05.29-15.15.22:997][135]LogDerivedDataCache: Shutdown
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2021.05.29-15.15.22:998][135]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2021.05.29-15.15.22:999][135]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2021.05.29-15.15.23:002][135]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2021.05.29-15.15.23:002][135]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2021.05.29-15.15.23:004][135]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2021.05.29-15.15.23:005][135]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2021.05.29-15.15.23:027][135]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2021.05.29-15.15.23:027][135]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2021.05.29-15.15.23:027][135]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2021.05.29-15.15.23:027][135]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2021.05.29-15.15.23:028][135]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2021.05.29-15.15.23:029][135]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2021.05.29-15.15.23:029][135]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2021.05.29-15.15.23:059][135]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2021.05.29-15.15.23:059][135]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.05.29-15.15.23:059][135]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B02E2F1A1-48C9-1EBC-D016-BCA77F465DA4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=4a55da304b5a55eb6b8b118fb5fbf03c%7C323b72e8b67847799dafc345eb1072de%7C6f448ca3-c922-471a-b88d-eebc0e36d197&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.05.29-15.15.23:075][135]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2021.05.29-15.15.23:076][135]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2021.05.29-15.15.23:077][135]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.05.29-15.15.23:077][135]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2021.05.29-15.15.23:077][135]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2021.05.29-15.15.23:077][135]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.05.29-15.15.23:077][135]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.05.29-15.15.23:077][135]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2021.05.29-15.15.23:077][135]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2021.05.29-15.15.23:077][135]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2021.05.29-15.15.23:077][135]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2021.05.29-15.15.23:079][135]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2021.05.29-15.15.23:087][135]LogExit: Exiting.
+[2021.05.29-15.15.23:099][135]Log file closed, 05/29/21 17:15:23
